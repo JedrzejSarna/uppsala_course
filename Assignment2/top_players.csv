@@ -1,0 +1,2005 @@
+playerId,total_contribution,firstName,lastName,wyId,age,role,minutesPlayed,contribution_per_90,place
+366401,11.133199221302027,Andr\u00e9-Frank,Zambo Anguissa,366401.0,22.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2532.0,0.3957298301410673,1
+14795,8.514472189794782,Mats ,Hummels,14795.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2256.0,0.33967309267798335,2
+40726,10.3966143937579,Allan,Marques Loureiro,40726.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2949.0,0.3172924026579217,3
+25623,9.472283292195218,Geoffrey,Kondogbia,25623.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2706.0,0.31504268155859927,4
+255738,7.337825377204817,Jefferson Andr\u00e9s,Lerma Sol\u00eds,255738.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2222.0,0.2972116489416892,5
+40756,8.817394871370693,Carlos Henrique,Casimiro,40756.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2674.0,0.29677095677762244,6
+346195,9.020162754272786,Fabi\u00e1n,Ruiz Pe\u00f1a,346195.0,22.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2758.0,0.2943490383917878,7
+228980,8.805238953722645,Jean-Philippe,Gbamin,228980.0,22.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2694.0,0.2941616576967476,8
+14905,7.400758395640233,Per Ciljan,Skjelbred,14905.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2266.0,0.2939400951489943,9
+217874,9.516247046281276,Abdoulaye,Tour\u00e9,217874.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2926.0,0.29270753047345,10
+86366,6.715356830134312,Jos\u00e9 Luis,Palomino,86366.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2072.0,0.2916902098031313,11
+7965,9.604375975781357,Lucas ,Pezzini Leiva,7965.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2987.0,0.2893852821628129,12
+294695,8.437192812748025,Tanguy,Ndomb\u00e8l\u00e9 Alvaro,294695.0,21.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2653.0,0.2862221459281275,13
+3409,7.097221772284459,Mikel,San Jos\u00e9 Dom\u00ednguez,3409.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2234.0,0.2859220946757392,14
+364860,10.59406232998482,Rodrigo,Hern\u00e1ndez Cascante,364860.0,22.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3344.0,0.2851272756275819,15
+14903,9.776197352547687,Tom\u00e1s Eduardo,Rinc\u00f3n Hern\u00e1ndez,14903.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3100.0,0.28382508442880383,16
+69400,7.623495663475943,Milan,Badelj,69400.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2445.0,0.2806194722751881,17
+21315,8.42896166701541,Jorge Luiz,Frello Filho,21315.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2722.0,0.27869454446413916,18
+40614,8.438307185412812,Guilherme,dos Santos Torres,40614.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2731.0,0.2780840888638422,19
+207143,9.545727665893011,F\u00e1bio Henrique,Tavares,207143.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3162.0,0.27170002844097757,20
+4013,7.829496295386762,Rub\u00e9n Salvador,P\u00e9rez Del M\u00e1rmol,4013.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2599.0,0.271125304572839,21
+43051,7.35807010769987,Gabriel,Appelt Pires,43051.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2447.0,0.2706278339570855,22
+25826,9.361875443319946,Benjamin,Andr\u00e9,25826.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3131.0,0.2691053305329911,23
+16303,7.273161896068807,Danny,Latza,16303.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2436.0,0.26871287793357657,24
+86301,6.135411463056327,Lucas ,Nahuel Castro,86301.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2064.0,0.26753247658675844,25
+241676,6.20590354851252,Roberto,Gagliardini,241676.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2089.0,0.26736779289905543,26
+289359,6.279927638931633,Youssef,A\u00eft Bennasser,289359.0,21.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2117.0,0.2669785014189169,27
+209117,7.2146829397021675,Adrien,Rabiot,209117.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2440.0,0.26611535433327665,28
+114,6.874333694344061,Kevin,Strootman,114.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2354.0,0.2628249925620074,29
+138174,6.506285705128966,Karol,Linetty,138174.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2231.0,0.2624678231562559,30
+49991,9.039686616505872,Remo,Freuler,49991.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3136.0,0.2594297817237017,31
+4488,9.400074086140547,Sa\u00fal,\u00d1\u00edguez Esclapez,4488.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3263.0,0.25927265331064947,32
+89559,6.8069152631130265,Charles Mariano,Ar\u00e1nguiz Sandoval,89559.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2372.0,0.25827250155150605,33
+3676,9.387777306588093,Asier,Illarramendi Andonegi,3676.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3272.0,0.25822125843304655,34
+14803,6.937581743593889,Sven,Bender,14803.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2420.0,0.25800923839811984,35
+286448,6.229317147528348,Mauro Wilney,Arambarri Rosa,286448.0,22.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2187.0,0.25635049989828596,36
+230895,7.493765400558955,Pere,Pons Riera,230895.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2651.0,0.254409236533499,37
+272434,6.700653863956779,Waldemar,Anton,272434.0,21.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2372.0,0.25424066094271086,38
+260002,6.870632560623403,Valentin,Rongier,260002.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2434.0,0.25404968383570514,39
+288663,6.308994580599508,Mattia,Caldara,288663.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2258.0,0.2514656830176952,40
+7585,7.072308177316305,Manuel Alejandro,Garc\u00eda S\u00e1nchez,7585.0,32.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2534.0,0.25118695183838496,41
+20635,10.012012808177186,Francesco,Acerbi,20635.0,30.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3591.0,0.25092763930268636,42
+15777,7.15837990327224,Daniel,Baier,15777.0,34.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2613.0,0.24655728713911276,43
+134387,5.6676598753165965,Leon ,Goretzka,134387.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2069.0,0.24653909559134543,44
+26508,9.229820054474244,Renaud,Cohade,26508.0,33.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3410.0,0.24360228882776594,45
+14722,8.465411891826594,Luiz Gustavo,Dias,14722.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3128.0,0.24357003525076518,46
+43196,5.687066466583585,Wergiton,do Ros\u00e1rio Calmon,43196.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2111.0,0.24246138417457255,47
+5542,7.706040092045801,Daniel,Garc\u00eda Carrillo,5542.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2866.0,0.24199009360925405,48
+25647,8.429619986624688,Julien,F\u00e9ret,25647.0,36.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3142.0,0.24145951584857478,49
+333571,8.851762059802736,Lucas,Torreira Di Pascua,333571.0,22.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3305.0,0.2410464706149005,50
+352988,6.231909849658079,Dayotchanculle,Upamecano,352988.0,19.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2344.0,0.2392798150465986,51
+167641,8.426105309825607,Stanislav,Lobotka,167641.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3171.0,0.23915152251160665,52
+26115,7.932471190550634,Salif,San\u00e9,26115.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2991.0,0.23869020633552562,53
+15069,5.752924414726226,Willi,Orban,15069.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2200.0,0.2353469078751638,54
+86338,5.488059381351943,Lucas Ariel,Ocampos,86338.0,23.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2117.0,0.23331381403952522,55
+25861,6.384901487977606,Josuha,Guilavogui,25861.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2471.0,0.23255408090569996,56
+3346,6.912224599979543,Sergio,Busquets i Burgos,3346.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2676.0,0.23247392152397564,57
+625,6.904020748184362,Marten,de Roon,625.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2692.0,0.2308179299170106,58
+54380,5.418616938272593,Ole Kristian,Seln\u00e6s,54380.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2115.0,0.23057944418181248,59
+3306,6.0740076599633515,Sergio,Ramos Garc\u00eda,3306.0,32.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2372.0,0.2304640343156415,60
+21639,6.031543072137819,Luca,Ceppitelli,21639.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2358.0,0.2302115676388481,61
+244357,5.507381479943495,Bongani,Zungu,244357.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2158.0,0.22968690138781955,62
+397046,6.399448378674754,Houssem,Aouar,397046.0,20.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2515.0,0.22900610500227747,63
+15430,6.141503770769095,Nicolas,H\u00f6fler,15430.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2417.0,0.22868652849367752,64
+22163,7.715854476429042,Simone,Missiroli,22163.0,32.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3048.0,0.22783034871345598,65
+20815,7.8987725456516635,Andrea,Barberis,20815.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3123.0,0.22763033272771366,66
+342743,8.181064211229215,Lucas,Tousart,342743.0,21.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3240.0,0.22725178364525597,67
+14802,5.361443480288522,Marvin,Bakalorz,14802.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2125.0,0.22707290034163152,68
+56441,8.565302128338715,Lukas,Lerager,56441.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3400.0,0.22672858575014246,69
+360992,5.9292109485366415,Denis Lemi,Zakaria Lako Lado,360992.0,21.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2359.0,0.226209828473208,70
+302799,8.48208027980103,Rolando,Mandragora,302799.0,21.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3380.0,0.22585420863375524,71
+20866,5.911958483896125,Davide,Astori,20866.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2357.0,0.22574300532484143,72
+15781,5.300536407128461,Ja-Cheol,Koo,15781.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2114.0,0.22566143644350117,73
+26311,7.013733230452748,Romain,Amalfitano,26311.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2798.0,0.22560256995737932,74
+14838,5.572913921034635,Christoph,Kramer,14838.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2224.0,0.22552259572532246,75
+55990,7.227633772164896,Thomas,Delaney,55990.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2891.0,0.2250041644741753,76
+25541,8.381528134862798,Jordan,Veretout,25541.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3353.0,0.22497391355134264,77
+247207,6.232787474861834,Joan,Jord\u00e1n Moreno,247207.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2503.0,0.2241114153965502,78
+20443,6.39406995749371,Miralem,Pjani\u0107,20443.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2571.0,0.2238297534711917,79
+41034,6.293289975781927,Rafael,Tol\u00f3i,41034.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2541.0,0.22290283267232325,80
+425925,5.483867609966465,Kai,Havertz,425925.0,19.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2217.0,0.22261979472123672,81
+20404,7.22698699333213,Bryan,Cristante,20404.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2923.0,0.22252098166263826,82
+214062,7.263721437689829,Alejandro,Granell Nogu\u00e9,214062.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2939.0,0.22243447750666367,83
+3463,7.482331850365211,Federico Juli\u00e1n,Fazio,3463.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3042.0,0.2213707648037045,84
+3476,7.14799357863686,Ivan,Rakiti\u0107,3476.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2920.0,0.22031487057442375,85
+37732,5.163168106583247,Lucas Rodrigo,Biglia,37732.0,32.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2135.0,0.21765111456322822,86
+25492,7.370197855813644,Thomas,Monconduit,25492.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3048.0,0.21762395243544225,87
+4805,6.033696364761736,Anaitz,Arbilla Zabala,4805.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2501.0,0.21712621864396492,88
+217031,5.917963904315812,Thomas Teye,Partey,217031.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2460.0,0.21651087454813944,89
+3650,5.916862482550819,Tom\u00e1s,Pina Isla,3650.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2469.0,0.2156814999714758,90
+15051,6.702012541710833,Lars,Stindl,15051.0,29.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2824.0,0.21359105125848973,91
+14857,6.4215060875549534,Kyriakos,Papadopoulos,14857.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2707.0,0.21349669297375168,92
+15178,5.374687623462453,Stefan,Bell,15178.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2267.0,0.21337533573516576,93
+274344,6.310424395756708,Baptiste,Santamaria,274344.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2668.0,0.2128703881627075,94
+28122,5.503247620746586,Yassine,Benzia,28122.0,23.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2331.0,0.21248060311762879,95
+51004,5.613252404133097,Celso,Borges Mora,51004.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2382.0,0.21208762232240919,96
+21564,7.695373245251373,Ivan,Radovanovi\u0107,21564.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3274.0,0.211540498494998,97
+20653,5.907344265876175,Perparim,Hetemaj,20653.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2516.0,0.21131199679207302,98
+341973,6.832741620557963,Nordi,Mukiele Mulere,341973.0,20.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2911.0,0.21124931152532347,99
+399676,6.366785139058757,Pablo,Fornals Malla,399676.0,22.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2714.0,0.2111314158125601,100
+22162,6.072218391669161,Francesco,Magnanelli,22162.0,33.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2591.0,0.2109222907179562,101
+14852,5.664978419961803,Sergio,Escudero Palomo,14852.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2423.0,0.21042016417522172,102
+20749,7.010122510745069,Andrea,Bertolacci,20749.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3001.0,0.21023359745653322,103
+15719,5.547813313138296,Benjamin,H\u00fcbner,15719.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2398.0,0.2082165130035224,104
+20689,5.251921675976099,Gast\u00f3n Exequiel,Ram\u00edrez Pereyra,20689.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2283.0,0.20704027631968852,105
+3441,5.556006523829073,Gabriel,Fern\u00e1ndez Arenas,3441.0,35.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2431.0,0.20569337192291917,106
+286223,7.048895868487037,Nicol\u00f2,Barella,286223.0,21.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3087.0,0.20550716817746462,107
+246946,7.230657967912893,Ellyes,Skhiri,246946.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3175.0,0.20496353294871192,108
+93003,4.823966527524382,Dimitrios,Siovas,93003.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2124.0,0.2044053613357789,109
+16826,5.297611809181953,Rani,Khedira,16826.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2341.0,0.20366726306124552,110
+209209,5.199003044160889,Flavien,Tait,209209.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2298.0,0.2036163072125675,111
+116349,5.047774922206843,Mat\u00edas,Vecino Falero,116349.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2232.0,0.20353931137930817,112
+25999,5.457982072473011,R\u00e9my,Cabella,25999.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2414.0,0.2034873183606342,113
+14938,5.724862586196035,Maximilian,Arnold,14938.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2534.0,0.20332976825479207,114
+141172,6.969023597735711,Jean Eud\u00e8s,Aholou,141172.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3120.0,0.20102952685776088,115
+70093,6.475365468179376,Jo\u00e3o Filipe,Iria Santos Moutinho,70093.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2906.0,0.20054469791333238,116
+49856,5.325477389492217,David \u00c1ngel,Abraham,49856.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2394.0,0.20020591689820363,117
+15107,4.713559934024126,Raffael,Caetano de Ara\u00fajo,15107.0,33.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2124.0,0.19972711584847988,118
+20879,6.007380532238959,Radja,Nainggolan,20879.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2712.0,0.19935997341500972,119
+265172,6.2550573251250325,Anton\u00edn,Bar\u00e1k,265172.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2836.0,0.1985032296407803,120
+3286,6.837686702606785,Daniel,Parejo Mu\u00f1oz,3286.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3112.0,0.19774800875148155,121
+241966,5.829308040268156,Gideon,Jung,241966.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2656.0,0.19752926341270105,122
+50073,6.091164682694786,Artur,Ioni\u0163\u0103,50073.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2776.0,0.19748012299802983,123
+3797,5.53883033782017,V\u00edctor,S\u00e1nchez Mata,3797.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2535.0,0.1966448640646214,124
+235450,5.452271922250303,Abdou,Diallo,235450.0,22.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2502.0,0.19612488928957927,125
+15937,5.1330739933305205,Diego,Demme,15937.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2357.0,0.1960019768348523,126
+3671,5.618419897932345,\u00cd\u00f1igo,Mart\u00ednez Berridi,3671.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2583.0,0.1957637595098378,127
+86220,4.761696226971724,Gabriel Iv\u00e1n,Mercado,86220.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2193.0,0.1954184498073211,128
+3308,6.456845045446815,Pedro Filipe,Teod\u00f3sio Mendes,3308.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2974.0,0.1953988076967765,129
+25923,4.962624459489587,Nicolas,de Roussel de Pr\u00e9ville,25923.0,27.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2288.0,0.19520812996244002,130
+92966,5.269857953800781,Konstantinos,Manolas,92966.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2436.0,0.1946991854852505,131
+14715,4.871532212901944,Holger,Badstuber,14715.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2252.0,0.19468823230958038,132
+14929,4.673998854926586,Makoto,Hasebe,14929.0,34.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2162.0,0.19456979507094943,133
+265865,6.392435559721752,Sergej,Milinkovi\u0107-Savi\u0107,265865.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2962.0,0.1942333559672376,134
+14687,5.278380573188706,Sokratis,Papastathopoulos,14687.0,30.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2457.0,0.19334727374317603,135
+3431,6.098259031043429,Jo\u00e3o,Miranda de Souza Filho,3431.0,33.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2840.0,0.19325468760348893,136
+229427,5.596728432661154,Alexander,Djiku,229427.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2613.0,0.1927690619745518,137
+3280,5.295676540660996,\u00c9ver Maximiliano David,Banega,3280.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2486.0,0.19171797613012456,138
+214710,6.142996340970238,Bakaye,Dibassy,214710.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2886.0,0.19156953246268932,139
+235597,5.754302423837248,Timo,Baumgartl,235597.0,22.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2705.0,0.19145553351029662,140
+37739,5.839444316313783,Dennis,Praet,37739.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2748.0,0.19124817629848634,141
+159,5.209234207974429,Jeffrey,Gouweleeuw,159.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2463.0,0.19034960565070996,142
+15256,5.063222669828363,Pirmin,Schwegler,15256.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2397.0,0.19010848572572078,143
+4303,7.263158876187898,David,L\u00f3pez Silva,4303.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3447.0,0.1896386129552976,144
+25995,4.806727702098843,Benjamin,Stambouli,25995.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2283.0,0.18948992255317382,145
+272440,5.813061813524176,Maximilian,Eggestein,272440.0,21.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2774.0,0.1885996983479365,146
+3335,4.849620692931577,Marc,Bartra Aregall,3335.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2319.0,0.188212963503166,147
+225996,5.023542680859554,Diego Javier,Llorente R\u00edos,225996.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2407.0,0.1878349984534108,148
+334552,4.33778220790672,Fran\u00e7ois,Kamano,334552.0,22.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2080.0,0.18769249938057922,149
+20402,5.0470993827690265,Kevin-Prince,Boateng,20402.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2445.0,0.18578279936573106,150
+14689,6.5855656257994175,Ronaldo ,Aparecido Rodrigues,14689.0,35.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3192.0,0.18568324132893096,151
+3680,4.763962344428709,David,Zurutuza Veillet,3680.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2312.0,0.185448361158557,152
+50102,4.72638290882994,Fabian Lukas,Sch\u00e4r,50102.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2296.0,0.18526762273288094,153
+14917,4.471075533389883,Robin,Knoche,14917.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2177.0,0.18484005420536956,154
+257750,5.234135770798858,Thiago,Maia Alencar,257750.0,21.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2549.0,0.18480667688187413,155
+25942,4.760371644933761,Gilbert Gianelli,Imbula Wanga,25942.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2319.0,0.18474922295991308,156
+28866,4.774097752263033,Karim,Azamoum,28866.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2326.0,0.18472433263270546,157
+14778,4.299265964084276,\u00d6mer,Toprak,14778.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2095.0,0.18469400323035073,158
+209028,5.4565276835868275,Adrien,Thomasson,209028.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2665.0,0.18427297993351388,159
+89186,5.018730225079786,Paulo Bruno,Exequiel Dybala,89186.0,24.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2452.0,0.18421114202984532,160
+21528,6.864328581896117,Federico,Ceccherini,21528.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3354.0,0.18419486355714088,161
+70084,4.498598453873831,Alex Sandro,Lobo Silva,70084.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2199.0,0.1841172627779194,162
+25993,5.182152213471643,Vitorino,Hilton da Silva,25993.0,40.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2534.0,0.1840543406521105,163
+235606,5.03896736035362,Thilo,Kehrer,235606.0,21.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2464.0,0.18405319092200725,164
+344068,6.234400882913015,Unai,N\u00fa\u00f1ez Gestoso,344068.0,21.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3050.0,0.18396592769251519,165
+3384,4.7923643511177305,Jos\u00e9 Andr\u00e9s,Guardado Hern\u00e1ndez,3384.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2356.0,0.18306994550110176,166
+3503,5.4876592715523165,Ra\u00fal,Garc\u00eda Escudero,3503.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2699.0,0.18298974969978082,167
+86328,6.323161968268171,Germ\u00e1n Alejandro,Pezzella,86328.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3113.0,0.18280905144366702,168
+20841,5.7454449898122135,Andrea,Masiello,20841.0,33.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2829.0,0.18278191908204286,169
+209086,4.517692777931876,Morgan,Sanson,209086.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2231.0,0.1822466831079645,170
+26021,4.813211369755092,Simon,Falette,26021.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2382.0,0.18185937165321509,171
+26196,4.503272964048285,Djibril,Sidib\u00e9,26196.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2229.0,0.1818279797058527,172
+77,4.680200552277148,Niklas,Moisander,77.0,32.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2326.0,0.18109116496343222,173
+3874,5.110639025115766,Enrique,Garc\u00eda Mart\u00ednez,3874.0,28.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2541.0,0.18101436924849232,174
+38532,5.848533968844952,Ervin,Zukanovi\u0107,38532.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2911.0,0.1808203563023173,175
+372915,4.2571571118789056,Amine,Harit,372915.0,21.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2120.0,0.18072836795712333,176
+25524,5.591985312109527,Papiss Mison,Djilobodji,25524.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2795.0,0.18006392776023522,177
+231138,4.9817112825714505,Presnel,Kimpembe,231138.0,22.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2497.0,0.17955707466216683,178
+3542,5.534895260563271,Manuel,Trigueros Mu\u00f1oz,3542.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2775.0,0.1795101165588088,179
+250805,6.7161650073033625,Djen\u00e9,Dakonam Ortega,250805.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3372.0,0.17925707314866626,180
+20845,5.2322488826532,Giacomo,Bonaventura,20845.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2631.0,0.17898228789007525,181
+20436,4.95835032691549,Jos\u00e9 \u00c1ngel,Vald\u00e9s D\u00edaz,20436.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2503.0,0.17828666776763646,182
+28529,6.348762582354907,Youssouf,Sabaly,28529.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3208.0,0.17811366347005664,183
+25888,4.923697953303377,Fay\u00e7al,Fajr,25888.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2488.0,0.17810804493460772,184
+70120,4.9578602834038294,Francisco Javier ,Garc\u00eda Fern\u00e1ndez,70120.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2510.0,0.17777188267185046,185
+14754,4.929430934556964,Christian,Gentner,14754.0,32.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2496.0,0.17774390389027514,186
+40657,4.282974220085432,Wendell,Nascimento Borges,40657.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2171.0,0.17755305380363376,187
+21094,6.1062879344289875,Danilo,D'Ambrosio,21094.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3096.0,0.17750837018688917,188
+143566,4.831511574840438,Douglas,dos Santos Justino de Melo,143566.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2457.0,0.1769784459648512,189
+3529,5.727582772560109,Mario Gaspar,P\u00e9rez Mart\u00ednez,3529.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2913.0,0.17695930296272222,190
+4272,5.2927967067603845,Joaqu\u00edn,Navarro Jim\u00e9nez,4272.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2706.0,0.17603536718715249,191
+118,5.151016075040226,Memphis,Depay,118.0,24.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2635.0,0.1759360329235751,192
+16110,4.129272569822993,Kevin,Kampl,16110.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2113.0,0.17588004320116865,193
+8200,4.489769890129782,Steven N'Kemboanza Mike Christopher,N'Zonzi,8200.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2299.0,0.17576306659925203,194
+220359,5.11819257816678,Paolo Pancrazio,Farag\u00f2,220359.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2622.0,0.17568166744279565,195
+20448,5.03506349949627,Federico,Viviani,20448.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2580.0,0.17564174998242804,196
+20550,5.220933737297297,\u015etefan Daniel,Radu,20550.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2678.0,0.17546080521163432,197
+20850,4.132197468292676,Luca,Cigarini,20850.0,32.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2120.0,0.17542347742751926,198
+70507,4.458905795575754,Paulo Andr\u00e9,Rodrigues de Oliveira,70507.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2293.0,0.17501156633310855,199
+214628,4.423530353952785,Jordan,Amavi,214628.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2275.0,0.17499680521131897,200
+254408,4.5103811112348655,\u00c1ngel Mart\u00edn,Correa,254408.0,23.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2320.0,0.17497168103928357,201
+413737,4.750636121353689,Santiago Lionel,Ascac\u00edbar,413737.0,21.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2452.0,0.17437082011493965,202
+277629,5.768323780788203,Pierre,Lees Melou,277629.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2978.0,0.1743281196342976,203
+25957,5.892010749917578,Abdul Khaled,Akiola Ad\u00e9non,25957.0,32.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3043.0,0.17426255914971475,204
+25397,4.3701412438637135,Samuel Yves,Umtiti,25397.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2264.0,0.1737246960899886,205
+285109,6.578246539783072,Franck Yannick,Kessi\u00e9,285109.0,21.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3408.0,0.17372129946610224,206
+279545,4.316672643061912,Lucas ,Hern\u00e1ndez Pi,279545.0,22.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2241.0,0.17336034711092016,207
+21507,4.951084162105043,Daniele,Baselli,21507.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2571.0,0.1733168318123119,208
+3310,4.468603706072178,Marcelo,Vieira da Silva J\u00fanior,3310.0,30.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2328.0,0.17275529791516153,209
+391530,4.571916176544537,Christian,Pulisic,391530.0,19.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2382.0,0.17274242480646865,210
+4094,4.470736026602162,Ander,Capa Rodr\u00edguez,4094.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2339.0,0.17202490055331104,211
+16843,5.5212612606016,Dominique,Heintz,16843.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2907.0,0.17093688113317648,212
+15487,5.3741586018519225,Janik,Haberer,15487.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2831.0,0.17084926674908973,213
+28990,5.129973120561704,Dimitri,Li\u00e9nard,28990.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2707.0,0.17055691941283835,214
+28908,6.3242767155746575,Fr\u00e9d\u00e9ric,Guilbert,28908.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3357.0,0.1695516545730471,215
+344864,4.16522003921962,Caglar,S\u00f6y\u00fcnc\u00fc,344864.0,22.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2212.0,0.16947097808759756,216
+173212,4.3062486725623925,Niklas,Stark,173212.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2293.0,0.16901979089865474,217
+20461,4.2213304566089604,Giorgio,Chiellini,20461.0,33.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2248.0,0.16900344354751176,218
+25829,5.968714558552779,Paul,Lasne,25829.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3184.0,0.16871366528572554,219
+21655,4.118301311966833,Adrian Marius,Stoian,21655.0,27.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2199.0,0.168552577570266,220
+21350,5.0785916699746565,Marco,Parolo,21350.0,33.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2714.0,0.16841313570291788,221
+134174,3.990022926493665,Samuel ,Castillejo Azuaga,134174.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2133.0,0.16835539774234876,222
+3470,5.305023143183036,Jos\u00e9 \u00c1ngel,G\u00f3mez Campa\u00f1a,3470.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2836.0,0.16835404897266334,223
+295761,4.99710561325743,Samuel,Grandsir,295761.0,21.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2689.0,0.16725158244446586,224
+20529,4.862368515689582,Andrea,Poli,20529.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2617.0,0.16721939870541166,225
+25411,6.16409602430653,Jimmy,Briand,25411.0,32.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3322.0,0.16699838717266335,226
+3334,3.9649855025086516,Daniel,Alves da Silva,3334.0,35.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2138.0,0.16690771525995257,227
+3705,4.5309897652415225,Adri\u00e1n ,Gonz\u00e1lez Morales,3705.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2445.0,0.16678489933404378,228
+26120,5.819446652599352,Thomas,Mangani,26120.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3141.0,0.1667463224240502,229
+213308,5.345687884723352,J\u00fanior Osmar Ignacio ,Alonso Mujica,213308.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2886.0,0.16670544339054114,230
+344140,5.411894181153959,Amath,Diedhiou Ndiaye,344140.0,21.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2922.0,0.16669078586716504,231
+3309,4.437091379739511,Rapha\u00ebl,Varane,3309.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2396.0,0.1666687079200985,232
+340646,5.858006004554639,Benjamin,Pavard,340646.0,22.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3166.0,0.16652575502524242,233
+394,4.5492685541951525,Bram,Nuytinck,394.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2462.0,0.16630144999088697,234
+3300,5.255674127156129,Ra\u00fal,Albiol Tortajada,3300.0,32.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2847.0,0.16614354458870798,235
+270866,4.3751606182103755,Diego Carlos,Santos Silva,270866.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2386.0,0.1650312052133,236
+146583,4.3656788970009455,Julian,Brandt,146583.0,22.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2382.0,0.16495008426955712,237
+25937,4.1202049973136,Fran\u00e7ois,Bellugou,25937.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2252.0,0.16466183381803906,238
+134503,5.683591785880817,Cl\u00e9ment,Lenglet,134503.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3121.0,0.16389723189018696,239
+26384,5.812743397683478,Ga\u00ebl,Kakuta,26384.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3194.0,0.1637905152759903,240
+16432,5.36049313878554,Caiuby Francisco,da Silva,16432.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2950.0,0.1635404686409148,241
+4424,6.004000773449662,Jonathan,Castro Otto,4424.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3312.0,0.16315219493069733,242
+26065,5.623327582598316,Jonas,Martin,26065.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3108.0,0.16283767131076204,243
+25726,5.756430163036374,Kalidou,Koulibaly,25726.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3185.0,0.16266207682049408,244
+225022,3.9956133391786315,Rub\u00e9n,Duarte S\u00e1nchez,225022.0,22.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2212.0,0.16257016298647234,245
+248950,4.823544387477903,Samir,Caetano de Souza Santos,248950.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2677.0,0.16216622894023583,246
+3840,5.473297624725943,Iago,Aspas Juncal,3840.0,30.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3038.0,0.16214509092341503,247
+15524,4.063869985704093,Hakan,\u00c7alhano\u011flu,15524.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2258.0,0.16197887454090718,248
+30320,4.127249786676636,Oualid,El Hajjam,30320.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2294.0,0.16192348770745302,249
+138408,6.4150071064061365,Milan,\u0160kriniar,138408.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3570.0,0.16172286822872614,250
+3443,5.101122791886165,Jorge,Resurrecci\u00f3n Merodio,3443.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2844.0,0.16142793645209383,251
+14749,4.233125069680179,Gotoku,Sakai,14749.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2363.0,0.16122778513381977,252
+3341,4.851371063590177,Gerard,Piqu\u00e9 Bernab\u00e9u,3341.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2715.0,0.16081893028475724,253
+14798,3.9503519743209954,\u0141ukasz,Piszczek,14798.0,33.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2211.0,0.16080130153274064,254
+263105,4.8451460444921315,Pablo,Maffeo Becerra,263105.0,20.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2732.0,0.15961315666335718,255
+228768,4.44543451670641,Jonathan,Tah,228768.0,22.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2508.0,0.1595251620827659,256
+21001,5.738719347998616,Elseid G\u00ebzim,Hysaj,21001.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3245.0,0.1591632484807012,257
+3304,3.7865289611570554,Jos\u00e9 Ignacio,Fern\u00e1ndez Iglesias,3304.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2143.0,0.1590236147942767,258
+290119,5.674989729474535,Moussa,Niakhat\u00e9,290119.0,22.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3220.0,0.1586177253579839,259
+263433,3.8996896443144395,Alex,Ferrari,263433.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2221.0,0.15802434398392598,260
+224801,3.879101769588679,Ihlas,Bebou,224801.0,24.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2214.0,0.15768706380441785,261
+130,5.507005918752459,Stefan,de Vrij,130.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3144.0,0.15764329920092918,262
+14706,3.8831048386493223,Aaron,Hunt,14706.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2220.0,0.15742316913443197,263
+25437,4.3411193142928735,Blaise,Matuidi,25437.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2486.0,0.15716039351824562,264
+20680,3.652470975065106,Frederik,Hillesborg S\u00f8rensen,20680.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2092.0,0.15713307254104183,265
+8306,5.563656860770374,Aleksandar,Kolarov,8306.0,32.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3197.0,0.15662468485121478,266
+70139,3.7682214563964065,Emiliano Adri\u00e1n,Ins\u00faa Zapata,70139.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2172.0,0.15614177305509971,267
+91702,3.8445843993327236,Johan Andr\u00e9s,Mojica Palacio,91702.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2217.0,0.15607243840322288,268
+26134,4.945524493009368,Prince-D\u00e9sir,Gouano,26134.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2855.0,0.15590094724022527,269
+4015,4.280558471673637,Pablo,Sarabia Garc\u00eda,4015.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2472.0,0.15584557542501104,270
+3277,4.337612944263063,V\u00edctor,Ru\u00edz Torre,3277.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2505.0,0.15584238123100827,271
+25558,5.877640618843458,Nicolas,N'Koulou,25558.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3405.0,0.15535613970511342,272
+70959,5.604830832282686,Edgar Miguel,I\u00e9,70959.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3255.0,0.15497228107694064,273
+3543,4.569739902378645,Borja,Valero Iglesias,3543.0,33.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2654.0,0.1549648045267815,274
+50805,4.494386492487087,Filip,Helander,50805.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2623.0,0.15421074507199306,275
+4278,4.914765812538858,Borja,Garc\u00eda Freire,4278.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2871.0,0.15406789380999553,276
+3827,5.302790669122485,Hugo,Mallo Novegil,3827.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3100.0,0.15395198716807215,277
+142755,4.020317774178444,Bertrand Isidore,Traor\u00e9,142755.0,22.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2358.0,0.1534472432892536,278
+65075,4.675196612452465,Martin,Hinteregger,65075.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2746.0,0.15322931359094022,279
+25786,4.681690148698147,Daniel,Congr\u00e9,25786.0,33.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2753.0,0.153051984519736,280
+25860,4.26182682903911,Max-Alain,Gradel,25860.0,30.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2514.0,0.15257136619471756,281
+25990,4.203763068358796,Mathieu,Deplagne,25990.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2499.0,0.15139602887246567,282
+15276,3.4444402114904156,Mitchell,Weiser,15276.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2053.0,0.15099835315837185,283
+14943,4.0251683062752175,Mario,Mand\u017euki\u0107,14943.0,32.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2403.0,0.15075536727622538,284
+28115,4.304761274811513,Nabil,Fekir,28115.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2575.0,0.1504576756244801,285
+20561,4.163180711015178,Senad,Luli\u0107,20561.0,32.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2495.0,0.15017485530716074,286
+41056,3.9599613527323836,Thiago Henrique,Mendes Ribeiro,41056.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2374.0,0.1501249038525335,287
+20583,4.831802392605368,Danilo,Larangeira,20583.0,34.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2897.0,0.1501077719483891,288
+86243,3.6433949535802057,Duv\u00e1n Esteban,Zapata Banguera,86243.0,27.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2189.0,0.14979696017460875,289
+3692,4.9465518139651286,Bernardo Jos\u00e9,Espinosa Z\u00fa\u00f1iga,3692.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2972.0,0.149794637704193,290
+14990,3.8426441334415062,Fallou,Diagne,14990.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2310.0,0.14971340779642234,291
+215036,4.85592425055693,C\u00e9dric,Yamber\u00e9,215036.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2921.0,0.14961765920921727,292
+5400,5.865512492541082,Gerard,Moreno Balaguero,5400.0,26.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3531.0,0.14950329207836233,293
+3484,4.574517469879594,Luis Alberto,Romero Alconchel,3484.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2761.0,0.14911502074942537,294
+25883,4.486466987997147,J\u00e9r\u00e9my,Sorbon,25883.0,34.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2710.0,0.14899705864197169,295
+116269,4.814397969842706,Diego Sebasti\u00e1n,Laxalt Su\u00e1rez,116269.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2914.0,0.14869451519761276,296
+3313,5.489609230876054,Jos\u00e9 Mar\u00eda,Callej\u00f3n Bueno,3313.0,31.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3324.0,0.148635628994839,297
+213948,4.014733654572719,Rodrigo Javier,de Paul,213948.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2431.0,0.14863267334905172,298
+224593,3.9294628714589486,Joshua,Kimmich,224593.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2380.0,0.14859313379466613,299
+26276,4.164674748509657,Nicolas,Pallois,26276.0,30.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2528.0,0.14826769278713176,300
+14989,5.008013258731131,Daniel,Caligiuri,14989.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3041.0,0.1482147955560019,301
+11095,4.514243338781729,Milos,Veljkovic,11095.0,22.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2749.0,0.1477926156749202,302
+21370,3.5881408206720704,Marco,Capuano,21370.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2196.0,0.14705495166688812,303
+3276,4.997277756641092,Adil,Rami,3276.0,32.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3065.0,0.14673898796009732,304
+8148,4.733943635596311,Iago,Falqu\u00e9 Silva,8148.0,28.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2906.0,0.14661215664269373,305
+21620,3.5826062350095693,Jasmin,Kurti\u010d,21620.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2201.0,0.14649457571597513,306
+254,5.244102503490177,Roberto Jos\u00e9,Rosales Altuve,254.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3230.0,0.14612050319322475,307
+102,5.207625118772096,Marcelo Ant\u00f4nio,Guedes Filho,102.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3209.0,0.14605368048908965,308
+256478,3.8848360061048295,Danilo,Cataldi,256478.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2394.0,0.14604646639491842,309
+144884,4.404460081088243,Christopher,Jullien,144884.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2717.0,0.14589672701433268,310
+447804,5.063605115253083,Federico,Chiesa,447804.0,20.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3136.0,0.14532029986376835,311
+334720,3.9305178646253083,Ramy,Bensebaini,334720.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2439.0,0.14503755958026968,312
+26498,4.543968711047711,Kenny,Lala,26498.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2823.0,0.14486616507059652,313
+25943,5.531781090295426,Christophe,Kerbrat,25943.0,32.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3438.0,0.144811023306163,314
+25714,3.8865268037969685,Dimitri ,Payet,25714.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2416.0,0.1447795580884632,315
+146590,3.667195463200214,Federico,Mattiello,146590.0,22.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2282.0,0.14463084648905314,316
+26135,4.209335802368585,Maxime,Le Marchand,26135.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2620.0,0.1445955046615163,317
+3269,4.555726852599693,Jordi,Alba Ramos,3269.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2838.0,0.1444733674185949,318
+208694,4.476987919437094,Rodrigo,Ely,208694.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2789.0,0.14447074677279972,319
+3420,3.7414276185417608,Markel,Susaeta Laskurain,3420.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2333.0,0.14433282711905634,320
+20935,5.273080722840251,R\u00f4mulo ,Souza Orestes Caldeira,20935.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3289.0,0.1442922666633088,321
+21291,4.170173636541989,Valter,Birsa,21291.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2603.0,0.1441857961155509,322
+26512,4.138947351280374,Mathieu,Dossevi,26512.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2585.0,0.1441026157118892,323
+25864,4.05475071426004,Lo\u00efc,Perrin,25864.0,32.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2543.0,0.1435027779329153,324
+236528,4.798245667677605,Nico,Elvedi,236528.0,21.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3012.0,0.14337387453219935,325
+20776,3.3464614453843513,Luca,Rossettini,20776.0,33.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2113.0,0.1425374018384248,326
+146588,3.86777238184918,Alessio,Romagnoli,146588.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2444.0,0.14243024319411873,327
+14723,3.6760565943732537,Toni,Kroos,14723.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2323.0,0.1424214780428725,328
+50007,4.487792359684714,Berat ,Djimsiti,50007.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2838.0,0.14231899660733766,329
+21296,3.4126050898374496,Rodrigo Sebasti\u00e1n,Palacio,21296.0,36.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2162.0,0.14206034139008808,330
+208696,4.566181119741842,Matteo,Politano,208696.0,24.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2912.0,0.1411251032887245,331
+22380,4.508645112372948,Marco,Benassi,22380.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2880.0,0.14089515976165462,332
+15191,3.6343943953137976,Yunus,Mall\u0131,15191.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2322.0,0.14086799981836426,333
+286380,4.999963014150531,Issa,Diop,286380.0,21.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3195.0,0.1408440285676206,334
+135913,4.044786100833814,Marcos Paulo,Mesquita Lopes,135913.0,22.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2595.0,0.14028159887284905,335
+366581,4.753074113610355,Joris,Gnagnon,366581.0,21.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3050.0,0.14025464597538753,336
+127796,3.8712400321654994,Filip,Kosti\u0107,127796.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2490.0,0.139924338512006,337
+70088,4.050924328076552,Rolando Jorge,Pires da Fonseca,70088.0,32.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2606.0,0.13990145415460079,338
+15806,4.626662705730136,Jannik,Vestergaard,15806.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2977.0,0.13987223497336657,339
+25622,4.7014858827695125,Thorgan,Hazard,25622.0,25.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3026.0,0.1398326931425169,340
+26086,4.597866486389391,Isma\u00ebl,Traor\u00e9,26086.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2962.0,0.13970559884370193,341
+40301,4.302868636717599,Lucas Pedro,Alves De Lima,40301.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2773.0,0.139653147242908,342
+8309,3.691894869510493,Karim,Rekik,8309.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2380.0,0.13960946985543882,343
+4360,4.926096621123281,Juan Pedro,Ram\u00edrez L\u00f3pez,4360.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3180.0,0.13941782889971552,344
+3325,4.901090937765501,Juan Francisco,Moreno Fuertes,3325.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3168.0,0.13923553800470173,345
+328336,4.1926287772314375,Mohamed Salim,Fares,328336.0,22.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2712.0,0.1391359107488309,346
+3338,4.271586951054714,Sergi,G\u00f3mez Sol\u00e0,3338.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2770.0,0.13878802368047807,347
+3339,3.4461087270506936,Mart\u00edn,Montoya Torralbo,3339.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2235.0,0.13876947894163869,348
+301013,3.584075675958202,J\u00e9r\u00e9my,Gelin,301013.0,21.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2325.0,0.13873841326289815,349
+134435,3.5947997179954014,Alberto,Grassi,134435.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2335.0,0.13855759084350583,350
+232822,4.533404194137073,Adam,Masina,232822.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2945.0,0.13854206365783925,351
+256084,3.386858947068707,Chang-Hoon,Kwon,256084.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2204.0,0.1383018626298474,352
+4379,3.162951420856182,Jonathan,Viera Ramos,4379.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2067.0,0.1377192200663069,353
+7623,4.205564316473242,Leonardo,Carrilho Baptist\u00e3o,7623.0,24.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2752.0,0.137536623721872,354
+230862,3.366766886336857,\u00cd\u00f1igo,Lekue Mart\u00ednez,230862.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2204.0,0.1374814064293635,355
+3645,3.225932500781834,Gonzalo,Castro Iriz\u00e1bal,3645.0,33.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2114.0,0.13733865897368264,356
+21280,3.4822427175454687,Mario,Sampirisi,21280.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2289.0,0.13691648954962524,357
+20928,4.072360465185751,Felipe,Dias da Silva dal Belo,20928.0,33.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2685.0,0.13650370274365647,358
+25643,3.389211409570767,K\u00e9vin,Th\u00e9ophile Catherine,25643.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2240.0,0.1361736727059683,359
+22202,3.2610941770647193,Simone,Zaza,22202.0,27.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2157.0,0.13606790724887563,360
+3433,3.9898087787187357,Diego Roberto,God\u00edn Leal,3433.0,32.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2639.0,0.13606774917949457,361
+29474,3.8787197890969485,Romain,Thomas,29474.0,30.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2568.0,0.13593644120666876,362
+6370,3.9357875653636953,Javier,Eraso Go\u00f1i,6370.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2618.0,0.13530209353809494,363
+20479,4.226431109871712,Fabio,Quagliarella,20479.0,35.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2817.0,0.13502974791922404,364
+20707,3.2351045301520553,Sebastien,De Maio,20707.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2160.0,0.13479602208966895,365
+247141,4.405840596760188,I\u00f1aki,Williams Arthuer,247141.0,24.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2952.0,0.13432440843781063,366
+5167,3.8534339444268206,Mariano,D\u00edaz Mej\u00eda,5167.0,24.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2582.0,0.13431799186615564,367
+4238,3.2725147324558854,M\u00edchel,Macedo Rocha Machado,4238.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2199.0,0.1339364829108821,368
+14991,4.708268251880325,Matthias,Ginter,14991.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3166.0,0.13384211707808882,369
+90268,4.3166945540246715,Erick Antonio,Pulgar Farf\u00e1n,90268.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2905.0,0.13373580373914645,370
+22566,3.6909748899271113,Alessandro ,Florenzi,22566.0,27.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2491.0,0.13335517466617425,371
+28232,3.6589268713877714,Ibrahim,Amadou,28232.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2482.0,0.13267663917199815,372
+29616,3.2394711648213614,Pablo,Martinez,29616.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2199.0,0.13258408587263418,373
+4371,3.078101485462617,Dani,Castellano Betancor,4371.0,30.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2100.0,0.131918635091255,374
+3572,3.7302377133943634,Francisco,Portillo Soler,3572.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2547.0,0.13181051990792803,375
+263766,4.322431527884431,Jemerson,de Jesus Nascimento,263766.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2955.0,0.13164766074774917,376
+3407,3.482543063691542,Jon\u00e1s ,Ramalho Chimeno,3407.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2382.0,0.13158223162562502,377
+8311,3.470167325523849,Stefan,Savi\u0107,8311.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2382.0,0.13111463446563662,378
+26138,3.096514394015912,Jonathan,Rivierez,26138.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2131.0,0.13077723860226753,379
+25770,4.399045137293717,Florian,Thauvin,25770.0,25.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3031.0,0.13062159761017306,380
+8327,4.572817141584531,Edin,D\u017eeko,8327.0,32.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3151.0,0.13061045469457563,381
+20394,3.1544647481472876,Thiago Emiliano,da Silva,20394.0,33.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2174.0,0.13058961698861815,382
+14775,3.509270176891538,Bastian,Oczipka,14775.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2419.0,0.13056399996702706,383
+41363,3.8935227835276267,Gabriel Armando,de Abreu,41363.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2686.0,0.13046055492088102,384
+21097,4.8632088038900525,Kamil,Glik,21097.0,30.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3356.0,0.1304197831794114,385
+5472,4.856914502947014,Luis,Hern\u00e1ndez Rodr\u00edguez,5472.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3354.0,0.13032865392523293,386
+20820,3.0100986481206635,Josip,Ili\u010di\u0107,20820.0,30.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2079.0,0.1303073007844443,387
+228963,3.970166348127635,Hamari,Traor\u00e9,228963.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2745.0,0.13016938846320114,388
+388267,3.3023703585752497,Leon,Bailey Butler,388267.0,20.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2284.0,0.13012842919079354,389
+25715,4.720314506993536,Ronny,Rodelin,25715.0,28.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3267.0,0.13003621231387152,390
+25512,3.5025301432128493,S\u00e9bastien,Haller,25512.0,24.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2427.0,0.12988368887068663,391
+14842,4.1560295833318,Kevin,Vogt,14842.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2882.0,0.12978579545449756,392
+3347,3.303607065153215,Sergi,Roberto Carnicer,3347.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2302.0,0.1291592684030362,393
+3788,3.0295803187672536,Jordi,Amat Maas,3788.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2112.0,0.1291014340383773,394
+20911,3.0054414029557512,Pasquale,Schiattarella,20911.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2096.0,0.12905044192080992,395
+20459,4.625598343637108,Leonardo,Bonucci,20459.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3231.0,0.12884675051913952,396
+3534,3.7762477132233587,Jaume Vicent,Costa Jord\u00e1,3534.0,30.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2638.0,0.1288333184951108,397
+64995,3.4594294455014243,Guido,Burgstaller,64995.0,29.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2418.0,0.12876288258690166,398
+241945,3.682614321967682,Pione,Sisto Ifolo Emirmija,241945.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2578.0,0.12856295150391442,399
+24838,3.1788191703573294,Gaetano,Letizia,24838.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2228.0,0.12840831478104114,400
+393214,4.107944654418231,Valentin,Rosier,393214.0,21.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2881.0,0.1283287118700593,401
+15010,4.286951798626676,Dante Bonfim,da Costa Santos,15010.0,34.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3029.0,0.12737724063268435,402
+22107,3.0489389620513117,M\u00e1rio Rui,Silva Duarte,22107.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2160.0,0.12703912341880463,403
+4501,3.2427027209128245,Daniel,Carvajal Ramos,4501.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2300.0,0.12688836734006706,404
+242446,4.39707671813084,L\u00e9o,Dubois,242446.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3132.0,0.12635277925663335,405
+14812,4.844454492797045,Ivan,Peri\u0161i\u0107,14812.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3451.0,0.1263404533038928,406
+20748,3.546816054034402,Nenad,Tomovi\u0107,20748.0,30.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2546.0,0.1253784151072648,407
+3974,4.174336748856031,Dami\u00e1n Nicol\u00e1s,Su\u00e1rez Su\u00e1rez,3974.0,30.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3000.0,0.12523010246568092,408
+25557,4.202797211273588,J\u00e9r\u00e9my,Morel,25557.0,34.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3022.0,0.1251660321027872,409
+26399,4.073090497461118,Damien,Da Silva,26399.0,30.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2937.0,0.12481380482516195,410
+14705,3.4281815031944713,Niclas,F\u00fcllkrug,14705.0,25.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2481.0,0.1243596675886749,411
+3803,4.252466120368326,Sergi,Darder Moll,3803.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3085.0,0.12405897920037257,412
+28335,3.5354586991895323,Ruben,Aguilar,28335.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2568.0,0.12390626282206305,413
+169002,3.1574234563598655,Diego,Rico Salguero,169002.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2298.0,0.1236588821028668,414
+14922,4.316870845277044,Ricardo Iv\u00e1n,Rodr\u00edguez Araya,14922.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3145.0,0.12353525471381048,415
+26100,3.2407892866607155,Na\u00efm,Sliti,26100.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2364.0,0.1233803027916516,416
+25523,3.430879772095224,L\u00e9vy Koffi,Djidji,25523.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2515.0,0.12277502166543547,417
+20418,3.005735948267469,Stephan,El Shaarawy,20418.0,25.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2210.0,0.12240553635478381,418
+359847,3.436062322487899,Alfonso,Pedraza Sag,359847.0,22.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2527.0,0.12237657658247364,419
+20932,2.8122836578515544,Matija,Nastasi\u0107,20932.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2072.0,0.12215517818853278,420
+93000,3.9642335424030124,Vitorino Gabriel ,Pacheco Antunes,93000.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2921.0,0.12214345046774087,421
+228981,4.368363948917151,Benjamin,Bourigeaud,228981.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3223.0,0.12198347980221642,422
+21077,3.857458576070061,Alejandro Dar\u00edo,G\u00f3mez,21077.0,30.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2855.0,0.1216011460057112,423
+82487,3.0697767896612915,Pavel,Kade\u0159\u00e1bek,82487.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2275.0,0.12144171915143571,424
+29588,3.0611383982103217,Ernest,Seka,29588.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2271.0,0.12131327866091103,425
+269152,4.171150052545059,Giovanni Pablo,Simeone,269152.0,23.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3114.0,0.12055346972673579,426
+372752,3.2598217463323778,Carlos,Soler Barrag\u00e1n,372752.0,21.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2434.0,0.12053572603529746,427
+51217,3.5003361372851916,Hans Carl Ludwig,Augustinsson,51217.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2615.0,0.12047045979184215,428
+276979,2.941928175793255,Ferland,Mendy,276979.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2198.0,0.12046111729817696,429
+28314,4.102425143488485,Christopher,H\u00e9relle,28314.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3072.0,0.12018823662563921,430
+94695,3.4883815545903754,Hiroki,Sakai,94695.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2616.0,0.12001312687810925,431
+14836,3.600124775906851,Takashi,Inui,14836.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2702.0,0.11991533302428445,432
+120717,3.4628567300415773,Oussama,Haddadi,120717.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2601.0,0.11982203218136947,433
+56026,3.514463847659546,Jens Stryger,Larsen,56026.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2643.0,0.1196752729055464,434
+21114,3.559931148544371,Mirco,Antenucci,21114.0,33.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2679.0,0.11959455146285682,435
+16094,2.9158775094877734,Simon,Terodde,16094.0,30.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2198.0,0.11939443851405805,436
+25809,2.742091993541033,Emmanuel,Rivi\u00e8re,25809.0,28.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2069.0,0.11927901373547267,437
+263432,3.932970805376139,Francesco,Vicari,263432.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2969.0,0.11922107527243264,438
+22093,3.936612338258273,Antonio Aldo,Caracciolo,22093.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2978.0,0.11897082284863822,439
+278278,3.3129695719824905,Munir,El Haddadi Mohamed,278278.0,22.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2517.0,0.118461367293772,440
+105541,3.816461075417949,Lucas,P\u00e9rez Mart\u00ednez,105541.0,29.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2901.0,0.11840106748969853,441
+3571,3.3662327035514212,Joaqu\u00edn,S\u00e1nchez Rodr\u00edguez,3571.0,36.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2564.0,0.11815949427442586,442
+258252,2.9405258073698,Lukas,Klostermann,258252.0,22.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2250.0,0.117621032294792,443
+26633,3.2446242924984787,Arnaud,Souquet,26633.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2510.0,0.11634111008958689,444
+3682,3.3472807721295648,Antoine,Griezmann,3682.0,27.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2591.0,0.11626988401839476,445
+26307,4.057758482280599,A\u00efssa,Mandi,26307.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3146.0,0.1160833640830432,446
+237034,3.262303856665473,Gon\u00e7alo Manuel,Ganchinho Guedes,237034.0,21.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2531.0,0.11600448324768572,447
+11156,2.990049663285803,Marcello,Trotta,11156.0,25.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2331.0,0.1154459329453978,448
+25605,4.034516225030516,Emiliano,Sala,25605.0,27.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3152.0,0.11519875008018605,449
+70451,3.4719887863048244,Luis Carlos,Correia Pinto,70451.0,33.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2716.0,0.11505117480391538,450
+21607,3.795841962763045,Fabrizio,Cacciatore,21607.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2997.0,0.11398924813102237,451
+225089,4.004131494263385,Jos\u00e9 Luis,Morales Nogales,225089.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3162.0,0.11396958712324626,452
+28528,3.1671122801440643,Jordan,Ikoko,28528.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2506.0,0.11374305874420024,453
+22270,3.472581672695907,Gianmarco,Ferrari,22270.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2759.0,0.11327740142900747,454
+122,3.8922026500700952,Dries,Mertens,122.0,31.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3099.0,0.11303589496815379,455
+69411,2.8958424387608104,Andrej,Kramari\u0107,69411.0,27.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2306.0,0.11302073698546093,456
+3359,3.902828046816026,Lionel Andr\u00e9s,Messi Cuccittini,3359.0,31.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3108.0,0.11301625618193126,457
+276944,3.3288543605935494,Jonathan,Bamba,276944.0,22.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2656.0,0.11280003480926937,458
+3321,2.767917612061831,Karim,Benzema,3321.0,30.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2213.0,0.11256781974042694,459
+82340,3.651834319480284,Theodor,Gebre Selassie,82340.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2923.0,0.11244101565283118,460
+21123,3.6743498117666586,Simone,Verdi,21123.0,25.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2944.0,0.1123272700608014,461
+278289,3.7731791072298457,\u00c1lvaro,Odriozola Arzallus,278289.0,22.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3024.0,0.11229699723898351,462
+99833,3.227099506552864,Bartosz,Bereszy\u0144ski,99833.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2590.0,0.11213859289179835,463
+300485,3.638319821466395,Malcom Filipe,Silva de Oliveira,300485.0,21.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2933.0,0.11164295394884949,464
+7904,2.798580959870021,Salomon Armand Magloire,Kalou,7904.0,32.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2261.0,0.11139862290504285,465
+20429,2.662878203648673,Nicol\u00e1s Andr\u00e9s,Burdisso,20429.0,37.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2153.0,0.1113139982946496,466
+26638,3.8977939054112394,Karl,Toko Ekambi,26638.0,25.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3161.0,0.11097799793957973,467
+14817,2.733004096606554,Robert,Lewandowski,14817.0,29.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2229.0,0.11035009811331982,468
+14731,2.9288771923516768,Mario,G\u00f3mez Garc\u00eda,14731.0,32.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2393.0,0.11015417773157163,469
+224680,2.956605406556664,Marius,Wolf,224680.0,23.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2442.0,0.10896580122444707,470
+355599,3.4449453178066234,Mikel,Oyarzabal Ugarte,355599.0,21.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2854.0,0.10863527631485499,471
+209400,2.8477056637402467,Domenico,Berardi,209400.0,23.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2364.0,0.10841519024391802,472
+14734,2.785715462979229,Nils,Petersen,14734.0,29.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2325.0,0.10783414695403466,473
+25410,3.776712095687976,Alassane,Pl\u00e9a,25410.0,25.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3153.0,0.10780338998157876,474
+11063,3.511500274986872,Jes\u00fas Joaqu\u00edn,Fern\u00e1ndez S\u00e1ez de la Torre,11063.0,24.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2933.0,0.10775145746635474,475
+3695,3.575192826033121,\u00c1lvaro,Gonz\u00e1lez Sober\u00f3n,3695.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3006.0,0.10704170137823715,476
+354547,3.2837287805670163,Jakub,Jankto,354547.0,22.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2761.0,0.1070393300438361,477
+6281,3.143639030319828,Joseba,Zald\u00faa Bengoetxea,6281.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2644.0,0.10700738000332244,478
+26265,3.659460657098088,Vincent,Manceau,26265.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3086.0,0.10672438727765,479
+14945,2.677375633915035,Giovanni-Guy Yann,Sio,14945.0,29.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2260.0,0.10662115356298812,480
+20842,3.196009450850796,Federico,Peluso,20842.0,34.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2700.0,0.1065336483616932,481
+25716,3.4395419518498676,Nolan,Roux,25716.0,30.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2918.0,0.10608594094122277,482
+3496,2.960734552372229,Sergio,Postigo Redondo,3496.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2518.0,0.10582450743189062,483
+21842,3.6396347629986776,Cristiano,Biraghi,21842.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3118.0,0.10505680842523443,484
+228902,3.745723394074806,Jonathan,Calleri,228902.0,24.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3210.0,0.10502028207686373,485
+20811,3.695871600435545,Mat\u00edas Agust\u00edn,Silvestre,20811.0,33.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3191.0,0.1042395625318706,486
+25392,2.9649378236548896,Bakary,Kon\u00e9,25392.0,30.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2569.0,0.10387092414516934,487
+131959,3.097095254956458,Jean Micha\u00ebl,Seri,131959.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2696.0,0.10338967839246337,488
+25846,2.482972514142214,Yoann,Andreu,25846.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2163.0,0.10331369684364275,489
+219350,2.581940549522709,Adama,Niane,219350.0,25.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2251.0,0.10323174120703857,490
+393284,3.5676021934020192,Charles,Traor\u00e9,393284.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3116.0,0.10304370905204806,491
+20927,3.513676976236277,Lorenzo,De Silvestri,20927.0,30.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3069.0,0.10304038053478819,492
+286917,2.4233080704696905,Fod\u00e9 ,Ballo Tour\u00e9,286917.0,21.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2122.0,0.10277932438372864,493
+3802,2.8063164965536833,Philippe,Coutinho Correia,3802.0,26.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2463.0,0.10254506077540865,494
+20941,2.583808773719733,Adem,Ljaji\u0107,20941.0,26.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2269.0,0.10248690596508417,495
+21171,2.7672709935265747,Marek,Ham\u0161\u00edk,21171.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2434.0,0.10232308521667696,496
+226200,3.6993572274113475,Manuel,Lazzari,226200.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3255.0,0.10228637495146584,497
+3287,3.492626148732319,Cristian,Portugu\u00e9s Manzanera,3287.0,26.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3077.0,0.10215676093139706,498
+15125,3.488319587081069,Marvin,Plattenhardt,15125.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3080.0,0.10193141650561564,499
+22185,3.075290813169428,Bruno,Martella,22185.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2731.0,0.10134609051089291,500
+70112,2.3665474102643507,Ezequiel Marcelo,Garay,70112.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2102.0,0.1013269585745916,501
+3464,2.363904700700898,Antonio Manuel,Luna Rodr\u00edguez,3464.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2102.0,0.10121380735636576,502
+65180,2.9203522339459953,Michael,Gregoritsch,65180.0,24.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2600.0,0.1010891157904383,503
+228928,2.927716091367884,Adam,Maru\u0161i\u0107,228928.0,25.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2610.0,0.10095572728854774,504
+21384,3.104962200136446,Ciro,Immobile,21384.0,28.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2771.0,0.10084684157787085,505
+284960,2.814720160673731,Lorenzo,Venuti,284960.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2515.0,0.10072557235015339,506
+15775,3.009048856535379,Paul,Verhaegh,15775.0,34.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2696.0,0.10045044402380715,507
+276983,2.4250241143030733,Isaac,Mbenza,276983.0,22.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2186.0,0.09984088302254189,508
+352986,3.624366549397044,Kelvin,Amian Adou,352986.0,20.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3285.0,0.0992977136821108,509
+280419,2.764346633745457,Hans,Hateboer,280419.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2514.0,0.09896228999088749,510
+21385,3.4976370791902003,Lorenzo,Insigne,21385.0,27.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3189.0,0.09871035971374037,511
+3423,2.614622936901869,Ibai,G\u00f3mez P\u00e9rez,3423.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2400.0,0.0980483601338201,512
+28922,2.6628678757133883,Thomas,Lemar,28922.0,22.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2449.0,0.09785957893597588,513
+40539,2.5435780869450406,Marcos ,Ao\u00e1s Corr\u00eaa ,40539.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2342.0,0.09774638250429277,514
+4892,3.2505684834936015,Jos\u00e9 Luis,Gay\u00e1 Pe\u00f1a,4892.0,23.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3029.0,0.09658341482813605,515
+276211,2.494823312704597,Allan,Saint-Maximin,276211.0,21.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2335.0,0.09616021333765043,516
+21469,2.5153348113438043,Giulio,Donati,21469.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2358.0,0.09600514547113757,517
+29291,2.3145549531768093,Jimmy,Giraudon,29291.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2172.0,0.09590697319793409,518
+213124,2.2174541799772864,Jos\u00e9 Manuel,Rodr\u00edguez Benito,213124.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2087.0,0.09562571930903488,519
+16884,2.544198850238289,Julian,Korb,16884.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2419.0,0.09465808041399172,520
+173214,2.6904876797232715,Timo,Werner,173214.0,22.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2570.0,0.09421941290859706,521
+247671,3.0414505115219015,Nicolas,P\u00e9p\u00e9,247671.0,22.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2933.0,0.09332783703954012,522
+3714,2.8702039061214455,Cristhian Ricardo,Stuani Curbelo,3714.0,31.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2785.0,0.0927534475945889,523
+97582,2.609409024832366,Moussa,Konat\u00e9,97582.0,25.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2547.0,0.0922052658951366,524
+134502,2.673657609732671,Aymeric ,Laporte,134502.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2611.0,0.09215977973034867,525
+3450,2.2409015943862958,Radamel Falcao,Garc\u00eda Z\u00e1rate,3450.0,32.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2190.0,0.09209184634464229,526
+22933,2.9035367031072967,Leonardo,Pavoletti,22933.0,29.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2849.0,0.09172281617397567,527
+25745,2.3983545295676905,Andy,Delort,25745.0,26.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2382.0,0.09061792932875405,528
+15292,2.235450164405321,Mark,Uth,15292.0,26.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2245.0,0.08961715581134917,529
+70129,2.748683262555554,Rodrigo,Moreno Machado,70129.0,27.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2767.0,0.08940422610408379,530
+3322,2.338678715862108,Cristiano Ronaldo,dos Santos Aveiro,3322.0,33.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2355.0,0.08937625665715063,531
+7972,2.963906484926769,Luis Alberto,Su\u00e1rez D\u00edaz,7972.0,31.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2997.0,0.08900620074855162,532
+221411,3.012273238984994,Philipp,Max,221411.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3055.0,0.08874127381625187,533
+3466,2.2304578032139415,Alexis,Ruano Delgado,3466.0,32.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2268.0,0.08851023028626753,534
+3314,2.1135704563320066,\u00c1ngel Fabi\u00e1n,di Mar\u00eda Hern\u00e1ndez,3314.0,30.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2160.0,0.08806543568050026,535
+3335,2.2564278296214537,Marc,Bartra Aregall,3335.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2319.0,0.08757158459074206,536
+16025,2.4470643053854757,Max,Kruse,16025.0,30.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2541.0,0.08667287976571933,537
+15014,2.418767439880861,Oscar,Wendt,15014.0,32.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2528.0,0.08611118259069521,538
+20495,2.0302406153345314,Massimo,Gobbi,20495.0,37.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2142.0,0.08530422753506435,539
+37831,2.401309209505206,Carlos Arturo,Bacca Ahumada,37831.0,31.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2568.0,0.08415803304340674,540
+134494,2.088301740258891,Val\u00e8re,Germain,134494.0,28.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2238.0,0.08397996274499561,541
+216074,2.9406569904950346,Christian,G\u00fcnter,216074.0,25.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",3163.0,0.08367345214813567,542
+27354,1.980933701240109,J\u00falio,Tavares,27354.0,29.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2133.0,0.08358370047426619,543
+21234,2.5912243774373285,Andrea,Belotti,21234.0,24.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2805.0,0.0831408891156362,544
+15772,2.2557499875567935,Matthias,Ostrzolek,15772.0,28.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2476.0,0.0819941433279933,545
+15399,2.3299361570338104,Daniel,Brosinski,15399.0,29.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2596.0,0.08077590683091022,546
+353833,2.0032215351636604,Kylian,Mbapp\u00e9 Lottin,353833.0,19.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2235.0,0.08066663899987894,547
+134708,1.8295141507648267,Divock,Okoth Origi,134708.0,23.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2056.0,0.08008573617161206,548
+8326,2.015004689168723,Mario ,Barwuah Balotelli,8326.0,27.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2340.0,0.0775001803526432,549
+3270,2.1228015399693945,Antonio,Barrag\u00e1n Fern\u00e1ndez,3270.0,31.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2466.0,0.0774745087580071,550
+5268,1.7685413259209288,Sergio,Le\u00f3n Limones,5268.0,29.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2057.0,0.07737905655463471,551
+20556,2.2414459558460678,Antonio,Candreva,20556.0,31.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2611.0,0.0772616376967239,552
+3323,2.4865345036082296,Gonzalo Gerardo,Higua\u00edn,3323.0,30.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2935.0,0.07624807677163226,553
+333913,1.8700298781221871,Kevin,Lasagna,333913.0,25.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2212.0,0.07608620661437471,554
+21550,1.8010101926309132,Gabriel Mois\u00e9s,Antunes da Silva,21550.0,27.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2148.0,0.07546132092028966,555
+40770,2.3765123568946116,Willian Jos\u00e9,da Silva,40770.0,26.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2850.0,0.0750477586387772,556
+25867,2.1091833189418026,Pierre-Emerick,Aubameyang,25867.0,29.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2558.0,0.0742089518001416,557
+282438,2.383969667845341,Aar\u00f3n,Mart\u00edn Caricol,282438.0,21.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2919.0,0.07350368965607423,558
+250134,1.6887119196035705,Luiz,de Ara\u00fajo Guimar\u00e3es Neto,250134.0,22.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2081.0,0.07303415317843409,559
+395636,2.5582340565302824,Maximiliano,G\u00f3mez Gonz\u00e1lez,395636.0,21.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3161.0,0.07283804653202323,560
+21174,2.139147120146443,Edinson Roberto,Cavani G\u00f3mez,21174.0,31.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2656.0,0.07248615994472132,561
+56009,1.740728515320477,Riza,Durmisi,56009.0,24.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2169.0,0.0722293989759534,562
+3290,1.7888849025110298,Aritz,Aduriz Zubeldia,3290.0,37.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2234.0,0.07206787879408805,563
+20472,2.590915566793527,Simone,Padoin,20472.0,34.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3242.0,0.0719254784119116,564
+354123,1.700416635435389,Pol Mikel,Lirola Kosok,354123.0,20.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2128.0,0.07191611710018092,565
+20661,1.81933258757206,Alberto,Paloschi,20661.0,28.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2302.0,0.07112942349326039,566
+21438,2.267294734761676,Roberto,Inglese,21438.0,26.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2893.0,0.07053457522590766,567
+4131,1.821667927927806,\u00c1ngel Luis,Rodr\u00edguez D\u00edaz,4131.0,31.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2373.0,0.06908980763316584,568
+15231,2.0379210464480564,Kevin,Volland,15231.0,25.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2664.0,0.06884868400162353,569
+26652,2.2883660497374336,Daniel,Wass,26652.0,29.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3019.0,0.06821892827968501,570
+3451,1.7602315938154347,Adri\u00e1n,L\u00f3pez \u00c1lvarez,3451.0,30.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2419.0,0.06549022052227743,571
+15129,1.6541961436754047,Daniel,Didavi,15129.0,28.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",2294.0,0.06489871531420506,572
+3605,2.0573519535536318,Jorge,Molina Vidal,3605.0,36.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2886.0,0.06415858483015484,573
+15004,1.9189448392835928,Ivan,Santini,15004.0,29.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",2873.0,0.06011313454073211,574
+206314,1.9908894265962735,Mauro Emanuel,Icardi Rivero ,206314.0,25.0,"{'code2': 'FW', 'code3': 'FWD', 'name': 'Forward'}",3059.0,0.058574713433692256,575
+21098,0.907994913869459,Alfred Benjamin,Gomis,21098.0,24.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2371.0,0.03446627678121101,576
+25418,1.0896457438995022,Alphonse,Ar\u00e9ola,25418.0,25.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3160.0,0.031034214224985823,577
+82690,1.0523312291051166,Tom\u00e1\u0161,Koubek,82690.0,25.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3192.0,0.029670993301835997,578
+26365,1.1616704153428543,Baptiste,Reynet,26365.0,27.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3541.0,0.029525653030459443,579
+26583,1.1276554095171987,R\u00e9gis,Gurtner,26583.0,31.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3467.0,0.02927285458798612,580
+55951,0.9276106095082947,Luk\u00e1\u0161,Hr\u00e1deck\u00fd,55951.0,28.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3174.0,0.026302758303637847,581
+21298,0.9678383693303465,Nicolas David,Andrade ,21298.0,30.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3374.0,0.025816672566606753,582
+20802,0.7022402155304593,Emiliano,Viviano,20802.0,32.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2534.0,0.02494144411907709,583
+3267,0.8472154612615285,Vicente,Guaita Panadero,3267.0,31.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3099.0,0.024604514847866268,584
+86212,0.6595056083511996,Ger\u00f3nimo,Rulli,86212.0,26.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2421.0,0.0245169371134275,585
+140046,0.912842021665583,Marko,Dmitrovi\u0107,140046.0,26.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3358.0,0.02446568849014368,586
+3963,0.8805211048289996,Iv\u00e1n,Cu\u00e9llar Sacrist\u00e1n,3963.0,34.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3258.0,0.024323787426215458,587
+54579,0.7688408976594276,Rune ,Almenning Jarstein,54579.0,33.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2892.0,0.023926583952056876,588
+20632,0.5489789021078239,Christian,Puggioni,20632.0,37.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2080.0,0.02375389480274238,589
+86319,0.6592736654204006,Leandro,Chichizola,86319.0,28.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2517.0,0.023573551802874872,590
+404213,0.9202248539518072,Alban,Lafont,404213.0,19.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3567.0,0.023218457206521628,591
+120631,0.6718330184660829,Yassine,Bounou,120631.0,27.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2751.0,0.02197926996072245,592
+135747,0.741458958792944,Danijel,Suba\u0161i\u0107,135747.0,33.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3050.0,0.02187911681684097,593
+20540,0.7228649092098581,Albano Benjam\u00edn,Bizzarri,20540.0,40.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3004.0,0.021657071181387228,594
+214220,0.8352539259478169,Alisson Rams\u00e9s,Becker,214220.0,25.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3478.0,0.02161381637012752,595
+37896,0.6289295888627634,Eiji,Kawashima,37896.0,35.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2660.0,0.021279572555507033,596
+14979,0.7454511077892333,Oliver,Baumann,14979.0,28.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3160.0,0.021231202437035124,597
+3330,0.5710522564656308,Oier,Olaz\u00e1bal Paredes,3330.0,28.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2432.0,0.021132690411968247,598
+15032,0.7249115428205186,Ron-Robert,Zieler,15032.0,29.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3166.0,0.0206070874459402,599
+23705,0.7634873273564946,Marco,Sportiello,23705.0,26.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3352.0,0.02049936141470302,600
+15795,0.7142312261004478,Koen,Casteels,15795.0,26.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3161.0,0.02033559327714024,601
+19525,0.6683785666154438,Alexander,Schwolow,19525.0,26.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3004.0,0.020024657455189727,602
+20483,0.6903415669478979,Antonio,Mirante,20483.0,35.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3122.0,0.019900942032450613,603
+134413,0.5824261064345989,Alessio,Cragno,134413.0,24.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2662.0,0.01969134093881063,604
+3428,0.46437192641352126,Sergio ,Asenjo Andr\u00e9s,3428.0,29.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2147.0,0.01946598666847551,605
+15265,0.6849183370518419,Timo,Horn,15265.0,25.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3192.0,0.019311607247702308,606
+3719,0.6726434829168143,Roberto,Jim\u00e9nez Gago,3719.0,32.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3172.0,0.019085092516555262,607
+253822,0.6648079627660898,Ji\u0159\u00ed,Pavlenka,253822.0,26.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3164.0,0.018910466703207358,608
+14768,0.6375632015466588,Bernd,Leno,14768.0,26.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3070.0,0.018690777895504655,609
+3397,0.5717234396472353,Kepa,Arrizabalaga Revuelta,3397.0,23.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2801.0,0.01837026403721927,610
+14914,0.5837971355715741,Marwin,Hitz,14914.0,30.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2885.0,0.018212042357518776,611
+25382,0.6324381633358054,Anthony,Lopes,25382.0,27.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3172.0,0.017944336286324872,612
+25421,0.6776325450594729,Salvatore,Sirigu,25421.0,31.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3478.0,0.017535057232706316,613
+14847,0.6008776841808006,Ralf,F\u00e4hrmann,14847.0,29.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3146.0,0.017189762103074397,614
+134496,0.5986444568590777,Mike,Maignan,134496.0,23.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3139.0,0.01716406534479675,615
+16010,0.5495975628802755,Philipp,Tschauner,16010.0,32.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2902.0,0.01704472110931247,616
+49855,0.5082318348340755,Yann,Sommer,49855.0,29.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2716.0,0.016841261095385418,617
+7949,0.6424851295431367,Jos\u00e9 Manuel ,Reina P\u00e1ez,7949.0,35.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3459.0,0.01671687240788734,618
+25552,0.5018510453370434,Steve,Mandanda,25552.0,33.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2774.0,0.016282117548786557,619
+3299,0.6276290408478499,Fernando,Pacheco Flores,3299.0,26.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3486.0,0.01620384787042642,620
+21468,0.6233775446989369,Mattia,Perin,21468.0,25.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3473.0,0.01615432738926125,621
+25384,0.5765770898639776,R\u00e9my,Vercoutre,25384.0,38.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3216.0,0.016135552887984447,622
+86745,0.4390986619937759,Walter Daniel,Ben\u00edtez,86745.0,25.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2520.0,0.01568209507120628,623
+20832,0.5954046735876999,Andrea,Consigli,20832.0,31.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3477.0,0.015411682664047452,624
+50849,0.49615868070662195,Etrit,Berisha,50849.0,29.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2912.0,0.015334574609751364,625
+3296,0.4784920681147975,Antonio,Ad\u00e1n Garrido,3296.0,31.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2811.0,0.015319916801967903,626
+15008,0.5792259619185464,Marc-Andr\u00e9,ter Stegen,15008.0,26.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3445.0,0.015132173170586117,627
+26016,0.5932894952645782,Benjamin,Lecomte,26016.0,27.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3565.0,0.014977855420424133,628
+25632,0.5400139439209166,Beno\u00eet,Costil,25632.0,31.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3361.0,0.014460355534924873,629
+50771,0.558309011792432,Karl-Johan,Johnsson,50771.0,28.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3546.0,0.014170279487117562,630
+21494,0.5590482357658412,Alex,Cordaz,21494.0,35.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3564.0,0.014117379691056595,631
+49968,0.47633312504669584,Roman,B\u00fcrki,49968.0,27.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3070.0,0.013964163274984568,632
+20633,0.5442096893094523,Stefano,Sorrentino,20633.0,39.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3574.0,0.01370421713426153,633
+20571,0.5318099426085753,Samir,Handanovi\u010d,20571.0,33.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3570.0,0.013406973343073326,634
+83574,0.5067744488173285,Anton Ciprian,T\u0103t\u0103ru\u0219anu,83574.0,32.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3474.0,0.013128871731018872,635
+3554,0.372078722217219,Rub\u00e9n Iv\u00e1n,Mart\u00ednez Andrade,3554.0,34.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2560.0,0.013080892577949105,636
+14736,0.37130962400112844,Sven,Ulreich,14736.0,29.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2663.0,0.01254895462264422,637
+18704,0.30557868126789295,Christian,Mathenia,18704.0,26.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2238.0,0.01228868691425843,638
+20922,0.4189095217010743,Norberto,Murara Neto,20922.0,28.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3085.0,0.012221023323532152,639
+9611,0.40186083340426854,P\u00e9ter,Gul\u00e1csi,9611.0,28.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3064.0,0.011804006203127992,640
+70273,0.44764110739261176,Jan,Oblak,70273.0,25.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3445.0,0.011694542718529771,641
+350999,0.4510567633740359,Gianluigi,Donnarumma,350999.0,19.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3583.0,0.011329921491393589,642
+3458,0.275445154739982,Sergio,Rico Gonz\u00e1lez,3458.0,24.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2236.0,0.011086790664847218,643
+166534,0.4345700900610768,Thomas,Strakosha,166534.0,23.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3562.0,0.01098015387577117,644
+3915,0.29936688793278515,Keylor,Navas Gamboa,3915.0,31.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2509.0,0.01073854918850166,645
+247206,0.29953265727815165,Pau,L\u00f3pez Sabata,247206.0,23.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",2663.0,0.010123146509588302,646
+3803,0.3237444744055743,Sergi,Darder Moll,3803.0,24.0,"{'code2': 'MD', 'code3': 'MID', 'name': 'Midfielder'}",3085.0,0.009444733451054031,647
+25845,0.3212103441727132,St\u00e9phane,Ruffier,25845.0,31.0,"{'code2': 'GK', 'code3': 'GKP', 'name': 'Goalkeeper'}",3122.0,0.009259747269552912,648
+26021,0.19308195379632156,Simon,Falette,26021.0,26.0,"{'code2': 'DF', 'code3': 'DEF', 'name': 'Defender'}",2382.0,0.007295287926813157,649
+212644,5.81449191974272,,,,,,,,650
+269060,5.435111373081879,,,,,,,,651
+3414,5.092978405932007,,,,,,,,652
+86828,5.044563773909258,,,,,,,,653
+395114,4.872740540495752,,,,,,,,654
+4332,4.862650413085543,,,,,,,,655
+40550,4.65433493046208,,,,,,,,656
+3916,4.5349590679227205,,,,,,,,657
+20823,4.526684085768297,,,,,,,,658
+116283,4.234286453342721,,,,,,,,659
+225948,4.19851801208633,,,,,,,,660
+3970,4.197580221683639,,,,,,,,661
+3866,4.0805309596549435,,,,,,,,662
+4511,4.054087541339014,,,,,,,,663
+344075,3.9509536285828313,,,,,,,,664
+69404,3.7982590651898143,,,,,,,,665
+86183,3.6895405182834526,,,,,,,,666
+20764,3.6593489289887464,,,,,,,,667
+32577,3.566661194641514,,,,,,,,668
+32968,3.5389664827357827,,,,,,,,669
+3704,3.4923062335569415,,,,,,,,670
+4593,3.4429146391528485,,,,,,,,671
+280383,3.404633448289368,,,,,,,,672
+3828,3.387371749246621,,,,,,,,673
+3568,3.3056995667476525,,,,,,,,674
+5677,3.3054775456686234,,,,,,,,675
+3642,3.2911433922099302,,,,,,,,676
+7857,3.258362021169639,,,,,,,,677
+3282,3.230481815553559,,,,,,,,678
+134769,3.21830081508972,,,,,,,,679
+6365,3.21151249992397,,,,,,,,680
+20433,3.194443354695255,,,,,,,,681
+4498,3.1747611541286433,,,,,,,,682
+278288,3.168141502045214,,,,,,,,683
+127928,3.1641563499064014,,,,,,,,684
+254189,3.141609158982724,,,,,,,,685
+8287,3.1320988922155144,,,,,,,,686
+222770,3.1072962308559737,,,,,,,,687
+3674,3.078762384070995,,,,,,,,688
+3468,3.023300100227282,,,,,,,,689
+3340,3.017891832157819,,,,,,,,690
+4969,3.010311562538084,,,,,,,,691
+134249,3.010239333538003,,,,,,,,692
+288091,2.968473518617682,,,,,,,,693
+3358,2.9465586811183484,,,,,,,,694
+410055,2.938597270241166,,,,,,,,695
+3474,2.921312172802745,,,,,,,,696
+3843,2.898873578298602,,,,,,,,697
+4361,2.884764359193978,,,,,,,,698
+274435,2.87841383556017,,,,,,,,699
+3293,2.8355051813264787,,,,,,,,700
+237269,2.8222019778123455,,,,,,,,701
+7302,2.810371746466889,,,,,,,,702
+20808,2.805160623047196,,,,,,,,703
+4065,2.7886959059789618,,,,,,,,704
+250885,2.7572450623069447,,,,,,,,705
+286963,2.7196125046974733,,,,,,,,706
+3595,2.713284993488052,,,,,,,,707
+25795,2.6752069353562047,,,,,,,,708
+3434,2.6738975508345635,,,,,,,,709
+5290,2.666842454689064,,,,,,,,710
+447821,2.65237348399572,,,,,,,,711
+4363,2.6459897983093503,,,,,,,,712
+3353,2.644717432520163,,,,,,,,713
+14866,2.6074046243368336,,,,,,,,714
+224080,2.5957580564073757,,,,,,,,715
+230897,2.5837202545214786,,,,,,,,716
+3563,2.553458649473504,,,,,,,,717
+489488,2.526433792995899,,,,,,,,718
+70125,2.5110603995525635,,,,,,,,719
+3678,2.504359867766479,,,,,,,,720
+263091,2.496048743919921,,,,,,,,721
+4086,2.4501308918733136,,,,,,,,722
+4375,2.4363879646707893,,,,,,,,723
+21894,2.3771937538140664,,,,,,,,724
+3791,2.368870779360707,,,,,,,,725
+3421,2.351435363941162,,,,,,,,726
+69409,2.346210858892844,,,,,,,,727
+424624,2.345184592516546,,,,,,,,728
+91064,2.329471121048661,,,,,,,,729
+3510,2.3241785135968107,,,,,,,,730
+6210,2.2912079733676163,,,,,,,,731
+338201,2.2811186400607104,,,,,,,,732
+140125,2.2711702060708974,,,,,,,,733
+151,2.2665286386371584,,,,,,,,734
+279533,2.264779073404857,,,,,,,,735
+227894,2.2522189096884113,,,,,,,,736
+211853,2.235330140985727,,,,,,,,737
+26518,2.229968988941653,,,,,,,,738
+209012,2.2151416385098655,,,,,,,,739
+412897,2.1878615622720243,,,,,,,,740
+26032,2.137794747041915,,,,,,,,741
+4180,2.13627151686053,,,,,,,,742
+385273,2.1257343958944417,,,,,,,,743
+7860,2.1207050165512076,,,,,,,,744
+20803,2.115279111307702,,,,,,,,745
+3750,2.112530466571012,,,,,,,,746
+207001,2.081357662448427,,,,,,,,747
+247219,2.0754387335156514,,,,,,,,748
+261127,2.0715496011423578,,,,,,,,749
+3408,2.0415839085224117,,,,,,,,750
+3934,2.040287563589719,,,,,,,,751
+25461,2.030146842743488,,,,,,,,752
+3816,1.9956719886868692,,,,,,,,753
+4048,1.9664852952607625,,,,,,,,754
+279555,1.947181272955504,,,,,,,,755
+4911,1.9450980966587654,,,,,,,,756
+265864,1.9362286528249988,,,,,,,,757
+56025,1.9124185464890462,,,,,,,,758
+364850,1.9096250892384263,,,,,,,,759
+20623,1.9040673594112791,,,,,,,,760
+5653,1.8951170490392393,,,,,,,,761
+3460,1.8930803456282228,,,,,,,,762
+247169,1.8743682727127184,,,,,,,,763
+344132,1.8734429043949905,,,,,,,,764
+247220,1.8716108036110468,,,,,,,,765
+32652,1.862255505401918,,,,,,,,766
+4513,1.8526660510176887,,,,,,,,767
+4358,1.8395921792841234,,,,,,,,768
+20401,1.8347123259596874,,,,,,,,769
+7864,1.7935204494051364,,,,,,,,770
+4338,1.7823932441802859,,,,,,,,771
+6165,1.7658536629857498,,,,,,,,772
+282448,1.7619545811036872,,,,,,,,773
+20393,1.7570007861016483,,,,,,,,774
+364005,1.7524288894883422,,,,,,,,775
+4009,1.73627445271489,,,,,,,,776
+4683,1.7323189653690223,,,,,,,,777
+26167,1.7297674678541977,,,,,,,,778
+3538,1.7207509443904552,,,,,,,,779
+3576,1.714813604197298,,,,,,,,780
+8278,1.7021401135645,,,,,,,,781
+285509,1.6865240493288205,,,,,,,,782
+26332,1.6798739660465691,,,,,,,,783
+247222,1.6414988780160327,,,,,,,,784
+239843,1.6268889749964122,,,,,,,,785
+3465,1.6180400870209555,,,,,,,,786
+3447,1.6010045588150392,,,,,,,,787
+279538,1.5976712831831603,,,,,,,,788
+286390,1.5814839109086414,,,,,,,,789
+94828,1.5793688280825908,,,,,,,,790
+86716,1.5789078107333747,,,,,,,,791
+25472,1.578144378057437,,,,,,,,792
+3337,1.5672679245207743,,,,,,,,793
+240445,1.5638476633911385,,,,,,,,794
+4780,1.5637575743392556,,,,,,,,795
+230857,1.5611238331227848,,,,,,,,796
+234527,1.5237086349063833,,,,,,,,797
+3798,1.5158185675061118,,,,,,,,798
+5481,1.504075930651501,,,,,,,,799
+41124,1.4446177235253392,,,,,,,,800
+281255,1.4395430865371908,,,,,,,,801
+20410,1.4349847807935625,,,,,,,,802
+29642,1.4178077974798078,,,,,,,,803
+3667,1.401912712273035,,,,,,,,804
+399673,1.371391972875365,,,,,,,,805
+25701,1.3705385144519346,,,,,,,,806
+372753,1.3622536460275265,,,,,,,,807
+3806,1.342026783191769,,,,,,,,808
+373713,1.3357063015133455,,,,,,,,809
+3317,1.3310088203517219,,,,,,,,810
+112366,1.3297928489460795,,,,,,,,811
+302550,1.3266210652824069,,,,,,,,812
+3425,1.3263127009651763,,,,,,,,813
+341751,1.3181933682159885,,,,,,,,814
+278007,1.314071032974593,,,,,,,,815
+3937,1.3135065483974695,,,,,,,,816
+5195,1.2954613865253268,,,,,,,,817
+292991,1.2832939936869447,,,,,,,,818
+3885,1.2733038589287438,,,,,,,,819
+266885,1.2463210710141621,,,,,,,,820
+125250,1.2319293187273797,,,,,,,,821
+4936,1.2192875304922068,,,,,,,,822
+4355,1.1941796327793972,,,,,,,,823
+211885,1.185468041368747,,,,,,,,824
+5791,1.1755766332832884,,,,,,,,825
+326535,1.1600024933165152,,,,,,,,826
+25445,1.1480496467658048,,,,,,,,827
+408293,1.1292136322954167,,,,,,,,828
+40800,1.1259411958062489,,,,,,,,829
+3795,1.113551502147727,,,,,,,,830
+70140,1.1109042238996496,,,,,,,,831
+259946,1.1009621553832574,,,,,,,,832
+3920,1.1003674648295079,,,,,,,,833
+364820,1.0899457800793984,,,,,,,,834
+4365,1.0849017330655863,,,,,,,,835
+334817,1.077514146179312,,,,,,,,836
+86307,1.074735692409491,,,,,,,,837
+225946,1.0678193825263513,,,,,,,,838
+396475,1.0673147240492453,,,,,,,,839
+4256,1.0618854776069924,,,,,,,,840
+226005,1.0599378941181345,,,,,,,,841
+326523,1.0598865939436797,,,,,,,,842
+3539,1.059557759772082,,,,,,,,843
+38094,1.0433586754293727,,,,,,,,844
+15214,1.0312629433458471,,,,,,,,845
+22578,1.0271542008071644,,,,,,,,846
+105616,1.0232823581820527,,,,,,,,847
+5383,1.0222638690606205,,,,,,,,848
+278049,1.020660429423402,,,,,,,,849
+250899,1.0173633449528876,,,,,,,,850
+3708,1.0075495809345707,,,,,,,,851
+6513,0.9909405317191851,,,,,,,,852
+91122,0.9752066554003948,,,,,,,,853
+341752,0.9714453250172348,,,,,,,,854
+3355,0.9513463123630083,,,,,,,,855
+364870,0.9505461809301393,,,,,,,,856
+20406,0.9444330401008325,,,,,,,,857
+101649,0.9302763647506213,,,,,,,,858
+3685,0.927028279350013,,,,,,,,859
+26084,0.9195844445592182,,,,,,,,860
+5911,0.9007464053976934,,,,,,,,861
+3644,0.8885170252483943,,,,,,,,862
+282441,0.8765379446885007,,,,,,,,863
+15455,0.8733626607478262,,,,,,,,864
+4232,0.8719564907426939,,,,,,,,865
+8323,0.8699819835901162,,,,,,,,866
+278383,0.8690108159896265,,,,,,,,867
+293862,0.861230703795668,,,,,,,,868
+352328,0.8448495274749297,,,,,,,,869
+85113,0.8442409476644882,,,,,,,,870
+4879,0.835225844617742,,,,,,,,871
+7908,0.8076639547060286,,,,,,,,872
+3291,0.7959681975187243,,,,,,,,873
+4326,0.78925774392003,,,,,,,,874
+50272,0.785954581759741,,,,,,,,875
+4440,0.7711705695223245,,,,,,,,876
+4003,0.7636980020533671,,,,,,,,877
+4014,0.7622147952366951,,,,,,,,878
+254188,0.7467149272630277,,,,,,,,879
+3735,0.73711745567111,,,,,,,,880
+4362,0.7233607789402252,,,,,,,,881
+37836,0.7128783507263579,,,,,,,,882
+1751,0.7079746528036518,,,,,,,,883
+6914,0.6998441496261715,,,,,,,,884
+3348,0.699181195257976,,,,,,,,885
+3856,0.6980035052439537,,,,,,,,886
+344120,0.6979715989677622,,,,,,,,887
+32601,0.6837947473069202,,,,,,,,888
+443324,0.6808704364285294,,,,,,,,889
+25577,0.6764782642268936,,,,,,,,890
+3677,0.6660818624387149,,,,,,,,891
+485383,0.6599680552221414,,,,,,,,892
+38436,0.6376087894980911,,,,,,,,893
+25452,0.6347674906497266,,,,,,,,894
+302542,0.6250960714552485,,,,,,,,895
+20450,0.6215209069670932,,,,,,,,896
+393881,0.6101872906779986,,,,,,,,897
+4329,0.6044357709313086,,,,,,,,898
+256634,0.576468641757213,,,,,,,,899
+265807,0.5705486734202827,,,,,,,,900
+275293,0.5525442212246269,,,,,,,,901
+259524,0.5523738949977481,,,,,,,,902
+14757,0.5406435315306025,,,,,,,,903
+167119,0.5290693633865904,,,,,,,,904
+450784,0.5234653905435132,,,,,,,,905
+4113,0.5194024705915464,,,,,,,,906
+3875,0.5186992628214862,,,,,,,,907
+4366,0.5158777739491208,,,,,,,,908
+70956,0.47494422576649165,,,,,,,,909
+5147,0.46813814310546553,,,,,,,,910
+50461,0.4566238439054004,,,,,,,,911
+70121,0.45053351870896086,,,,,,,,912
+489417,0.43342535223813194,,,,,,,,913
+298385,0.39229689041490357,,,,,,,,914
+3822,0.39168528325402036,,,,,,,,915
+3821,0.3912518501781346,,,,,,,,916
+3779,0.3891196435330533,,,,,,,,917
+405972,0.38092725231834307,,,,,,,,918
+8213,0.37647986904108,,,,,,,,919
+5907,0.34289815200535556,,,,,,,,920
+32793,0.34193912398200016,,,,,,,,921
+279570,0.3339042457096525,,,,,,,,922
+135903,0.33177765325385583,,,,,,,,923
+267134,0.32680647020577097,,,,,,,,924
+264778,0.32402906610419124,,,,,,,,925
+3398,0.32329063669269664,,,,,,,,926
+516397,0.32005625075327204,,,,,,,,927
+279541,0.31499580293922336,,,,,,,,928
+275497,0.3100496534646872,,,,,,,,929
+293857,0.3098892172869628,,,,,,,,930
+397303,0.2929583887168218,,,,,,,,931
+4343,0.2840325758299341,,,,,,,,932
+278320,0.28297140314396163,,,,,,,,933
+122623,0.2768617073986268,,,,,,,,934
+6684,0.26817677640365367,,,,,,,,935
+3604,0.2673843864766903,,,,,,,,936
+3372,0.26691383541464386,,,,,,,,937
+3399,0.261649440252895,,,,,,,,938
+86623,0.2616258762782891,,,,,,,,939
+3785,0.2535416024233152,,,,,,,,940
+344065,0.2458238520509532,,,,,,,,941
+279571,0.2335416089452315,,,,,,,,942
+376474,0.21946302055473815,,,,,,,,943
+278324,0.2180301025491832,,,,,,,,944
+404285,0.21622136215367138,,,,,,,,945
+3919,0.2126385683587351,,,,,,,,946
+279560,0.21161477047077432,,,,,,,,947
+400558,0.1955836508545327,,,,,,,,948
+520163,0.19550436879495614,,,,,,,,949
+3519,0.19426660976002488,,,,,,,,950
+3994,0.19415583140895418,,,,,,,,951
+263092,0.1919331218025473,,,,,,,,952
+253551,0.18747569673506023,,,,,,,,953
+4350,0.18726751420675902,,,,,,,,954
+406460,0.17891498137678755,,,,,,,,955
+286994,0.17723083329222725,,,,,,,,956
+329026,0.17582229466083807,,,,,,,,957
+5327,0.16074447679874643,,,,,,,,958
+336371,0.15912589738702518,,,,,,,,959
+500200,0.1577677566975561,,,,,,,,960
+568583,0.15535614331270947,,,,,,,,961
+167117,0.1533229945918613,,,,,,,,962
+499843,0.15181387423969986,,,,,,,,963
+4476,0.1459745915326142,,,,,,,,964
+167118,0.14518877783183734,,,,,,,,965
+247212,0.13967916662908775,,,,,,,,966
+8303,0.13320898617910218,,,,,,,,967
+4789,0.12946603196172018,,,,,,,,968
+376565,0.12101746437410603,,,,,,,,969
+26038,0.11489241881733431,,,,,,,,970
+4348,0.11154657783302788,,,,,,,,971
+375771,0.10976368379726889,,,,,,,,972
+4319,0.10352770914275644,,,,,,,,973
+247150,0.10270278112540342,,,,,,,,974
+122832,0.09058725900072223,,,,,,,,975
+127719,0.08421830513343023,,,,,,,,976
+3823,0.0789709480968281,,,,,,,,977
+3663,0.07759866881319942,,,,,,,,978
+266312,0.07748649053735829,,,,,,,,979
+287003,0.07728547116197793,,,,,,,,980
+7848,0.07413391311262968,,,,,,,,981
+396484,0.07053443063749935,,,,,,,,982
+472489,0.06760635504222556,,,,,,,,983
+247173,0.06151399402537884,,,,,,,,984
+114055,0.06136978887167201,,,,,,,,985
+352985,0.058927656372774584,,,,,,,,986
+215265,0.05694819506710162,,,,,,,,987
+3599,0.0552798415362928,,,,,,,,988
+3394,0.05189814074499496,,,,,,,,989
+470756,0.04575718572110009,,,,,,,,990
+400564,0.04554404086668178,,,,,,,,991
+488750,0.04462764685499897,,,,,,,,992
+33,0.04122533903049787,,,,,,,,993
+167104,0.04088414937284205,,,,,,,,994
+278316,0.030428093284067523,,,,,,,,995
+6577,0.029606889501331127,,,,,,,,996
+256854,0.029346269931801845,,,,,,,,997
+3488,0.02541089283672606,,,,,,,,998
+786,0.017521938761569537,,,,,,,,999
+86350,0.016438384640018434,,,,,,,,1000
+285491,0.014875660963011942,,,,,,,,1001
+3562,0.014240920245390561,,,,,,,,1002
+551398,0.013081203303214406,,,,,,,,1003
+400549,0.011830751039615357,,,,,,,,1004
+485794,0.010698299759884167,,,,,,,,1005
+3486,0.010276759902814497,,,,,,,,1006
+356237,6.009146411502755,,,,,,,,1007
+26314,5.700444229619226,,,,,,,,1008
+25776,5.597391998091452,,,,,,,,1009
+413582,5.279993459386857,,,,,,,,1010
+263802,5.057006209395904,,,,,,,,1011
+14862,4.878101427418613,,,,,,,,1012
+375001,4.670835339657518,,,,,,,,1013
+30427,4.584155203722535,,,,,,,,1014
+25504,4.5685306781402515,,,,,,,,1015
+300784,4.536174834390288,,,,,,,,1016
+28230,4.235726621488702,,,,,,,,1017
+215130,4.15006087342837,,,,,,,,1018
+25939,4.108373129394003,,,,,,,,1019
+25947,4.098499564888584,,,,,,,,1020
+86486,4.078630703565322,,,,,,,,1021
+3573,4.06347100878885,,,,,,,,1022
+43515,4.061291173088084,,,,,,,,1023
+275243,4.022866438927236,,,,,,,,1024
+21383,4.022113328440113,,,,,,,,1025
+340920,4.013373463595431,,,,,,,,1026
+253333,3.9483150121547803,,,,,,,,1027
+27646,3.9468259899919222,,,,,,,,1028
+25743,3.7795486957047086,,,,,,,,1029
+7920,3.6819090360858455,,,,,,,,1030
+280115,3.6283676352726433,,,,,,,,1031
+448079,3.4908217913167765,,,,,,,,1032
+26381,3.427362585800303,,,,,,,,1033
+295569,3.3833309544268833,,,,,,,,1034
+25764,3.3224130901235527,,,,,,,,1035
+105523,3.28249943877893,,,,,,,,1036
+134540,3.271449471968116,,,,,,,,1037
+394006,3.1187441485571625,,,,,,,,1038
+330387,3.1171067837933326,,,,,,,,1039
+325781,3.1120272803463096,,,,,,,,1040
+26042,3.1099891671352013,,,,,,,,1041
+7986,3.099858626255414,,,,,,,,1042
+116345,3.063805043661397,,,,,,,,1043
+20685,3.0365761148234407,,,,,,,,1044
+40810,3.0274335078822654,,,,,,,,1045
+25470,2.9760099401766036,,,,,,,,1046
+25649,2.9465648552377717,,,,,,,,1047
+135901,2.942526779621108,,,,,,,,1048
+273819,2.9362434630870125,,,,,,,,1049
+26528,2.9258404258861894,,,,,,,,1050
+25891,2.9203146782566556,,,,,,,,1051
+25439,2.913009859148665,,,,,,,,1052
+25800,2.906313659333481,,,,,,,,1053
+28117,2.888819724500871,,,,,,,,1054
+149053,2.8619493784361456,,,,,,,,1055
+286915,2.825023222367133,,,,,,,,1056
+138577,2.811014491419144,,,,,,,,1057
+410062,2.779543826025835,,,,,,,,1058
+25791,2.778928214315571,,,,,,,,1059
+25503,2.7200180826055145,,,,,,,,1060
+215281,2.7193063994905806,,,,,,,,1061
+144867,2.705038959561098,,,,,,,,1062
+37824,2.6744851488559407,,,,,,,,1063
+25835,2.6526354871024216,,,,,,,,1064
+149054,2.6487734741931885,,,,,,,,1065
+25407,2.6152051150275133,,,,,,,,1066
+25440,2.6076322975499338,,,,,,,,1067
+25673,2.5975563855901633,,,,,,,,1068
+26285,2.556490704375164,,,,,,,,1069
+335763,2.5505907454664074,,,,,,,,1070
+26389,2.5471606091816623,,,,,,,,1071
+258263,2.5120138161664185,,,,,,,,1072
+27958,2.5058622913935844,,,,,,,,1073
+4786,2.4931243111335233,,,,,,,,1074
+134512,2.4821733865720947,,,,,,,,1075
+247162,2.4791899584731705,,,,,,,,1076
+25641,2.4598505193836364,,,,,,,,1077
+285457,2.422721518475732,,,,,,,,1078
+203113,2.4150805373846325,,,,,,,,1079
+29748,2.4080340221276066,,,,,,,,1080
+229198,2.3950741847700088,,,,,,,,1081
+364644,2.3835224924669403,,,,,,,,1082
+69525,2.373112454389827,,,,,,,,1083
+26000,2.3681013389918153,,,,,,,,1084
+25596,2.3516283898802337,,,,,,,,1085
+26604,2.3428992473472725,,,,,,,,1086
+264989,2.3131723795507932,,,,,,,,1087
+25650,2.289574412086022,,,,,,,,1088
+25403,2.2822339898742805,,,,,,,,1089
+1712,2.2721734731755276,,,,,,,,1090
+275032,2.252462965607723,,,,,,,,1091
+26945,2.240042312643323,,,,,,,,1092
+25457,2.206711074164493,,,,,,,,1093
+364772,2.2010159466441763,,,,,,,,1094
+30437,2.1759663035495653,,,,,,,,1095
+25700,2.1599835537170367,,,,,,,,1096
+256992,2.1512469341365885,,,,,,,,1097
+25532,2.14193652229544,,,,,,,,1098
+256706,2.1335038105139468,,,,,,,,1099
+301017,2.1239914678515186,,,,,,,,1100
+28948,2.1230412409672876,,,,,,,,1101
+266286,2.120405343291836,,,,,,,,1102
+228946,2.08302317207402,,,,,,,,1103
+29137,2.0775111912612374,,,,,,,,1104
+25526,2.061925657911895,,,,,,,,1105
+397033,2.053187731869879,,,,,,,,1106
+41127,2.0263505454714577,,,,,,,,1107
+38095,1.996992585701248,,,,,,,,1108
+112377,1.9930594451586394,,,,,,,,1109
+278867,1.9926331794285121,,,,,,,,1110
+48318,1.9641223901345406,,,,,,,,1111
+26956,1.960495609426449,,,,,,,,1112
+25889,1.9513295113606042,,,,,,,,1113
+4452,1.947338407200236,,,,,,,,1114
+25534,1.9160515487973808,,,,,,,,1115
+70711,1.915845521118287,,,,,,,,1116
+366760,1.8980131890545577,,,,,,,,1117
+408827,1.8854895379619137,,,,,,,,1118
+292654,1.8831610380748325,,,,,,,,1119
+26539,1.852019993136829,,,,,,,,1120
+347200,1.8113399460838906,,,,,,,,1121
+234138,1.7948053978096195,,,,,,,,1122
+20677,1.7801617351524444,,,,,,,,1123
+14801,1.7614860584786898,,,,,,,,1124
+93044,1.7573552534450405,,,,,,,,1125
+26368,1.7419815951424715,,,,,,,,1126
+27955,1.740723186026543,,,,,,,,1127
+393228,1.7282878226819955,,,,,,,,1128
+20948,1.7251661092120982,,,,,,,,1129
+38015,1.722888622006388,,,,,,,,1130
+228983,1.7133899097749996,,,,,,,,1131
+279734,1.7132212019112347,,,,,,,,1132
+149101,1.6878053804525173,,,,,,,,1133
+149062,1.6846401051695277,,,,,,,,1134
+25625,1.6817658207979915,,,,,,,,1135
+26543,1.6785839950189627,,,,,,,,1136
+85438,1.6694195335905486,,,,,,,,1137
+339964,1.6415944460681273,,,,,,,,1138
+229124,1.6310403631981791,,,,,,,,1139
+50812,1.6116383533153855,,,,,,,,1140
+25704,1.5972458931007223,,,,,,,,1141
+256480,1.5882671153698416,,,,,,,,1142
+331923,1.5879743823309442,,,,,,,,1143
+25710,1.5747805134007888,,,,,,,,1144
+90880,1.5721591720129016,,,,,,,,1145
+26374,1.5643210384742847,,,,,,,,1146
+49919,1.563380872246706,,,,,,,,1147
+3315,1.5545376849398893,,,,,,,,1148
+25638,1.536441276883902,,,,,,,,1149
+25919,1.534577732564918,,,,,,,,1150
+8268,1.5145297953156098,,,,,,,,1151
+70981,1.5086144408348692,,,,,,,,1152
+28364,1.4999429799445771,,,,,,,,1153
+25427,1.4910819424989215,,,,,,,,1154
+28965,1.4799721199799907,,,,,,,,1155
+25517,1.4689554071077637,,,,,,,,1156
+396616,1.4635599774683403,,,,,,,,1157
+26327,1.4483225415196506,,,,,,,,1158
+26069,1.436338468240691,,,,,,,,1159
+37714,1.419047748197614,,,,,,,,1160
+26055,1.404110486198245,,,,,,,,1161
+26024,1.355241329371954,,,,,,,,1162
+286553,1.3547985082912342,,,,,,,,1163
+276920,1.3437697626223497,,,,,,,,1164
+8533,1.338720368795894,,,,,,,,1165
+135937,1.3166901689260895,,,,,,,,1166
+131321,1.314290370657994,,,,,,,,1167
+498357,1.3068281688488181,,,,,,,,1168
+25637,1.2811912274916661,,,,,,,,1169
+26414,1.2537064322699165,,,,,,,,1170
+276978,1.2416840637417497,,,,,,,,1171
+372904,1.238659509854544,,,,,,,,1172
+26433,1.2288115227897705,,,,,,,,1173
+143189,1.199377034118998,,,,,,,,1174
+29641,1.1934535585903379,,,,,,,,1175
+26332,1.1730625574397906,,,,,,,,1176
+229697,1.149714331898371,,,,,,,,1177
+366563,1.1397192913594216,,,,,,,,1178
+244335,1.129541841962908,,,,,,,,1179
+25616,1.1164853167891895,,,,,,,,1180
+326946,1.1092348047683263,,,,,,,,1181
+55968,1.1084077534731485,,,,,,,,1182
+99453,1.094579787823729,,,,,,,,1183
+26124,1.0753326472572484,,,,,,,,1184
+134951,1.073601992289633,,,,,,,,1185
+344744,1.0693732553617632,,,,,,,,1186
+25805,1.0597485027993732,,,,,,,,1187
+366546,1.057637038195665,,,,,,,,1188
+134797,1.046981018302488,,,,,,,,1189
+328488,1.0326728502025542,,,,,,,,1190
+426702,1.0178764444898134,,,,,,,,1191
+366571,0.9990242022323835,,,,,,,,1192
+25474,0.9871121036275142,,,,,,,,1193
+243931,0.9717910175266118,,,,,,,,1194
+25423,0.9613451872872723,,,,,,,,1195
+26547,0.960150390842655,,,,,,,,1196
+123,0.9579717265154097,,,,,,,,1197
+26610,0.954591721558672,,,,,,,,1198
+412701,0.9402230563854549,,,,,,,,1199
+404216,0.9366330831858439,,,,,,,,1200
+25859,0.9298423396824217,,,,,,,,1201
+407699,0.9260551027599829,,,,,,,,1202
+437636,0.9237448939835209,,,,,,,,1203
+25562,0.922954082848912,,,,,,,,1204
+134542,0.903351354210521,,,,,,,,1205
+28123,0.8831295504555631,,,,,,,,1206
+101795,0.8675894412354022,,,,,,,,1207
+284322,0.8416034487562183,,,,,,,,1208
+217872,0.815317576721539,,,,,,,,1209
+25406,0.8122060978331925,,,,,,,,1210
+299154,0.7985444229867701,,,,,,,,1211
+38236,0.7949050893570251,,,,,,,,1212
+25399,0.7728339484139122,,,,,,,,1213
+25741,0.7715720755424433,,,,,,,,1214
+404226,0.7607991931403316,,,,,,,,1215
+8899,0.7602526133955283,,,,,,,,1216
+382,0.7368280249118393,,,,,,,,1217
+25784,0.677195276443427,,,,,,,,1218
+477744,0.6715815924278823,,,,,,,,1219
+366542,0.6679354156679732,,,,,,,,1220
+29590,0.6637722994436502,,,,,,,,1221
+249926,0.6611643797936129,,,,,,,,1222
+26008,0.6219666438443051,,,,,,,,1223
+25514,0.5903886337518001,,,,,,,,1224
+209211,0.5669703062500024,,,,,,,,1225
+26068,0.561718799013178,,,,,,,,1226
+274970,0.5458059589482568,,,,,,,,1227
+25789,0.5448710835201722,,,,,,,,1228
+25521,0.5429190810605146,,,,,,,,1229
+217878,0.5396567592014666,,,,,,,,1230
+286506,0.5346743561928784,,,,,,,,1231
+25598,0.5300429227174764,,,,,,,,1232
+229140,0.5227838893176203,,,,,,,,1233
+372547,0.5198666632740708,,,,,,,,1234
+54819,0.5011283993380657,,,,,,,,1235
+76201,0.5011057598522363,,,,,,,,1236
+566942,0.49921417996634976,,,,,,,,1237
+99633,0.49851457070524097,,,,,,,,1238
+28073,0.4975945450812506,,,,,,,,1239
+347205,0.48001409515138505,,,,,,,,1240
+132,0.47631717079891744,,,,,,,,1241
+7915,0.4630032104167316,,,,,,,,1242
+274345,0.4622703903349602,,,,,,,,1243
+93331,0.4489046124485738,,,,,,,,1244
+286382,0.4374766626951301,,,,,,,,1245
+413597,0.4324133738206559,,,,,,,,1246
+37796,0.4231803442546865,,,,,,,,1247
+26044,0.41807818377067096,,,,,,,,1248
+471589,0.40314376200116275,,,,,,,,1249
+253784,0.40042428851358125,,,,,,,,1250
+26033,0.39100301905113466,,,,,,,,1251
+471771,0.3802282002496351,,,,,,,,1252
+1751,0.37818157736742214,,,,,,,,1253
+26869,0.37714934057374494,,,,,,,,1254
+288423,0.37643033201327014,,,,,,,,1255
+301635,0.3760569852692602,,,,,,,,1256
+374118,0.34852616116544116,,,,,,,,1257
+399576,0.34583664656988283,,,,,,,,1258
+351851,0.34071777046428664,,,,,,,,1259
+25930,0.33705741469012507,,,,,,,,1260
+86239,0.33491143514585286,,,,,,,,1261
+209095,0.31671797785583433,,,,,,,,1262
+373817,0.2853930414786507,,,,,,,,1263
+376908,0.27235405123587286,,,,,,,,1264
+270306,0.2723316420665154,,,,,,,,1265
+132972,0.2665233698342822,,,,,,,,1266
+25444,0.26302632748083643,,,,,,,,1267
+471774,0.2574056428533131,,,,,,,,1268
+286388,0.257283858833617,,,,,,,,1269
+245807,0.25454086350078375,,,,,,,,1270
+396628,0.2506396295290377,,,,,,,,1271
+26245,0.2486600526708329,,,,,,,,1272
+207002,0.24707446209427109,,,,,,,,1273
+278513,0.2427186137716537,,,,,,,,1274
+209207,0.23951804008994274,,,,,,,,1275
+26085,0.23792004297643682,,,,,,,,1276
+237267,0.23311065874541634,,,,,,,,1277
+101555,0.23020281653381885,,,,,,,,1278
+28251,0.22407449027707677,,,,,,,,1279
+26676,0.22402734752445072,,,,,,,,1280
+449985,0.22216055232418422,,,,,,,,1281
+26665,0.21971245262855874,,,,,,,,1282
+352992,0.2144631831158379,,,,,,,,1283
+331918,0.20317132069031332,,,,,,,,1284
+229119,0.1950257013879284,,,,,,,,1285
+426704,0.19502294098969652,,,,,,,,1286
+405977,0.19459432541642432,,,,,,,,1287
+367146,0.18867763373879987,,,,,,,,1288
+302908,0.18078664988368995,,,,,,,,1289
+209014,0.1794341074429252,,,,,,,,1290
+25781,0.17936019036354406,,,,,,,,1291
+40574,0.17862481492212093,,,,,,,,1292
+472126,0.1762916882576523,,,,,,,,1293
+233855,0.17026809652656774,,,,,,,,1294
+408052,0.1690854172503106,,,,,,,,1295
+26006,0.1690497305542253,,,,,,,,1296
+216614,0.16578822224985768,,,,,,,,1297
+25996,0.16381828237285498,,,,,,,,1298
+286381,0.16320662226046972,,,,,,,,1299
+415917,0.15938994314601576,,,,,,,,1300
+222761,0.15282287940702832,,,,,,,,1301
+125076,0.1491417908129544,,,,,,,,1302
+14717,0.14896305493592346,,,,,,,,1303
+343116,0.14530756416379248,,,,,,,,1304
+149076,0.13965063304066572,,,,,,,,1305
+493412,0.13944410517990752,,,,,,,,1306
+25433,0.13925808194140382,,,,,,,,1307
+29843,0.13494628406313733,,,,,,,,1308
+487983,0.13381898129861963,,,,,,,,1309
+266917,0.12394821733233513,,,,,,,,1310
+482491,0.12208502701145788,,,,,,,,1311
+437011,0.12012962221877228,,,,,,,,1312
+397030,0.10165281341800468,,,,,,,,1313
+229110,0.10019609095691953,,,,,,,,1314
+14913,0.0945513763527553,,,,,,,,1315
+25938,0.09372483373599061,,,,,,,,1316
+207061,0.08712276748007633,,,,,,,,1317
+454388,0.08036282689903525,,,,,,,,1318
+280116,0.07921773928975244,,,,,,,,1319
+330395,0.07870171515308266,,,,,,,,1320
+27959,0.07818416879026796,,,,,,,,1321
+342194,0.07776330453391761,,,,,,,,1322
+40765,0.0750125175215562,,,,,,,,1323
+26216,0.06839445167991182,,,,,,,,1324
+255320,0.0630984425004063,,,,,,,,1325
+26971,0.062352839474255684,,,,,,,,1326
+214609,0.06138177787744229,,,,,,,,1327
+15062,0.05254361457825377,,,,,,,,1328
+54313,0.05247842957551936,,,,,,,,1329
+26938,0.05067518421490415,,,,,,,,1330
+25467,0.04498428940948386,,,,,,,,1331
+25988,0.04400349162485812,,,,,,,,1332
+278913,0.040656987334286805,,,,,,,,1333
+497355,0.030859056610051335,,,,,,,,1334
+25633,0.028079952828904207,,,,,,,,1335
+229078,0.026422433780794483,,,,,,,,1336
+470517,0.02551393479120389,,,,,,,,1337
+26046,0.023110242342120457,,,,,,,,1338
+421809,0.022753459327460965,,,,,,,,1339
+437057,0.022477356833667732,,,,,,,,1340
+248632,0.021967081389457528,,,,,,,,1341
+49921,0.018705653465684643,,,,,,,,1342
+26131,0.017285248367800474,,,,,,,,1343
+344927,0.01671993763105355,,,,,,,,1344
+70171,0.015092517177289553,,,,,,,,1345
+217867,0.014621722892433874,,,,,,,,1346
+328333,6.450908849929962,,,,,,,,1347
+69968,5.826584603620364,,,,,,,,1348
+20579,5.431527510735212,,,,,,,,1349
+25405,4.63550549494544,,,,,,,,1350
+20938,4.629506399855368,,,,,,,,1351
+20414,4.524306275968109,,,,,,,,1352
+22383,4.294704270786429,,,,,,,,1353
+20518,3.9923080826811397,,,,,,,,1354
+86309,3.987915015425419,,,,,,,,1355
+23314,3.9508353935060536,,,,,,,,1356
+21072,3.935559092957818,,,,,,,,1357
+134427,3.921272859281994,,,,,,,,1358
+22695,3.7859508670199657,,,,,,,,1359
+134508,3.784358169425724,,,,,,,,1360
+21288,3.7391064818275948,,,,,,,,1361
+20516,3.693965710904689,,,,,,,,1362
+22099,3.674132951630035,,,,,,,,1363
+22732,3.6641971673934393,,,,,,,,1364
+206318,3.6463180504798616,,,,,,,,1365
+20723,3.5487407942523426,,,,,,,,1366
+20438,3.5340591213551917,,,,,,,,1367
+295273,3.444763109036539,,,,,,,,1368
+72397,3.4317339211517814,,,,,,,,1369
+21279,3.412420616071056,,,,,,,,1370
+99902,3.3531857455088026,,,,,,,,1371
+22883,3.3441826633451393,,,,,,,,1372
+246063,3.2598147456913478,,,,,,,,1373
+424241,3.2249994170942244,,,,,,,,1374
+22313,3.201371653376298,,,,,,,,1375
+21177,3.183679805965993,,,,,,,,1376
+272878,3.0808866620941506,,,,,,,,1377
+44510,3.062682037735873,,,,,,,,1378
+295176,3.049574170192088,,,,,,,,1379
+215869,3.0338324813620683,,,,,,,,1380
+20816,3.0260998700024477,,,,,,,,1381
+22020,3.0138298764864717,,,,,,,,1382
+3475,3.0109599865049694,,,,,,,,1383
+283832,3.0045598736151686,,,,,,,,1384
+69513,2.987174647602469,,,,,,,,1385
+49857,2.980612295239394,,,,,,,,1386
+21162,2.966043534286772,,,,,,,,1387
+20525,2.9337226823325584,,,,,,,,1388
+3531,2.90685107328856,,,,,,,,1389
+99661,2.8131063456268217,,,,,,,,1390
+346913,2.813027083682243,,,,,,,,1391
+22377,2.800707008636813,,,,,,,,1392
+25898,2.7982776620775587,,,,,,,,1393
+20655,2.782336131432048,,,,,,,,1394
+20434,2.78170889384135,,,,,,,,1395
+44251,2.738675701696327,,,,,,,,1396
+20588,2.716038544362678,,,,,,,,1397
+20943,2.7050962262188323,,,,,,,,1398
+40806,2.6958795080569957,,,,,,,,1399
+300669,2.6680285603907605,,,,,,,,1400
+26373,2.6589997831499925,,,,,,,,1401
+101742,2.6567783349794993,,,,,,,,1402
+20869,2.6416409843982143,,,,,,,,1403
+135903,2.628997629298784,,,,,,,,1404
+50069,2.6271504470492997,,,,,,,,1405
+263803,2.6189019589618234,,,,,,,,1406
+21376,2.6165231150033548,,,,,,,,1407
+278813,2.592668298012405,,,,,,,,1408
+340019,2.5885082183352868,,,,,,,,1409
+3344,2.564632888403379,,,,,,,,1410
+3318,2.5594479898326785,,,,,,,,1411
+20449,2.544951842576869,,,,,,,,1412
+14745,2.5422904780454005,,,,,,,,1413
+9080,2.5420925500932485,,,,,,,,1414
+22381,2.5027785924887267,,,,,,,,1415
+246059,2.498069704480719,,,,,,,,1416
+22323,2.4937504521798366,,,,,,,,1417
+20636,2.48105852669027,,,,,,,,1418
+208865,2.4763670691744686,,,,,,,,1419
+20458,2.474156841945193,,,,,,,,1420
+105334,2.4649617807284594,,,,,,,,1421
+115933,2.4638803942904133,,,,,,,,1422
+131184,2.463019996876139,,,,,,,,1423
+20638,2.4513053425769087,,,,,,,,1424
+3526,2.4160733355947266,,,,,,,,1425
+257028,2.4109650344770617,,,,,,,,1426
+21322,2.3765984976076333,,,,,,,,1427
+376362,2.365428209118336,,,,,,,,1428
+20465,2.348503133907973,,,,,,,,1429
+20929,2.3299723882045527,,,,,,,,1430
+125286,2.3162798148455184,,,,,,,,1431
+23427,2.3090162730090666,,,,,,,,1432
+51151,2.3072516612238725,,,,,,,,1433
+192,2.2790296785268214,,,,,,,,1434
+246175,2.2379900329075393,,,,,,,,1435
+338249,2.2357716572509694,,,,,,,,1436
+252589,2.2262459723860064,,,,,,,,1437
+361807,2.2070365139892267,,,,,,,,1438
+20390,2.2029419577643363,,,,,,,,1439
+116171,2.1946876200738994,,,,,,,,1440
+20663,2.164227103592624,,,,,,,,1441
+260250,2.1615975342285028,,,,,,,,1442
+105361,2.159108034040722,,,,,,,,1443
+21678,2.1529512437700276,,,,,,,,1444
+24964,2.135351139086797,,,,,,,,1445
+220341,2.1349013771034286,,,,,,,,1446
+454457,2.121352185584536,,,,,,,,1447
+21314,2.112865342534617,,,,,,,,1448
+26000,2.1108073079577596,,,,,,,,1449
+20460,2.1107459154602637,,,,,,,,1450
+85113,2.1046024908371406,,,,,,,,1451
+40538,2.0735920726028985,,,,,,,,1452
+22677,2.055025761049619,,,,,,,,1453
+374013,2.033263415856351,,,,,,,,1454
+10113,2.0101600422004213,,,,,,,,1455
+190167,1.9683672362951306,,,,,,,,1456
+149076,1.964122548752329,,,,,,,,1457
+20503,1.960007285181547,,,,,,,,1458
+240042,1.9430972498295016,,,,,,,,1459
+8291,1.9399067743416967,,,,,,,,1460
+135150,1.9316961225029776,,,,,,,,1461
+134420,1.9140092496084673,,,,,,,,1462
+286226,1.899436245364273,,,,,,,,1463
+20609,1.8936290496149746,,,,,,,,1464
+25878,1.8922289126427825,,,,,,,,1465
+417231,1.8884298225999532,,,,,,,,1466
+350032,1.8759298535119566,,,,,,,,1467
+351010,1.8398881328520091,,,,,,,,1468
+51064,1.8237968035591892,,,,,,,,1469
+7982,1.8016758470961494,,,,,,,,1470
+51145,1.7998169006583067,,,,,,,,1471
+83575,1.7942490406324052,,,,,,,,1472
+349102,1.7933897116482724,,,,,,,,1473
+339791,1.7676149909669223,,,,,,,,1474
+21019,1.727976622096033,,,,,,,,1475
+284315,1.7082295373360235,,,,,,,,1476
+22699,1.707791127260456,,,,,,,,1477
+3710,1.6931454279655216,,,,,,,,1478
+21373,1.6887925049738337,,,,,,,,1479
+20796,1.6868842693373791,,,,,,,,1480
+22158,1.6738175214437263,,,,,,,,1481
+105376,1.6702739457923914,,,,,,,,1482
+24269,1.6622504620744287,,,,,,,,1483
+127534,1.6272947470026256,,,,,,,,1484
+250956,1.6197686853778286,,,,,,,,1485
+21169,1.615306755982561,,,,,,,,1486
+20751,1.6097698175132813,,,,,,,,1487
+37745,1.6077040039327852,,,,,,,,1488
+21025,1.6054478278042361,,,,,,,,1489
+20395,1.598571925736205,,,,,,,,1490
+239295,1.595061312615065,,,,,,,,1491
+234533,1.594491176389532,,,,,,,,1492
+70834,1.5892051952948203,,,,,,,,1493
+135927,1.5795194496217135,,,,,,,,1494
+259292,1.578778834421088,,,,,,,,1495
+21290,1.5768034848646546,,,,,,,,1496
+20422,1.5677882580316373,,,,,,,,1497
+292310,1.5559559363514843,,,,,,,,1498
+222766,1.5483668127851926,,,,,,,,1499
+20947,1.546006153263089,,,,,,,,1500
+20519,1.5318664695004902,,,,,,,,1501
+20468,1.503577953201484,,,,,,,,1502
+415809,1.4875078494212377,,,,,,,,1503
+21865,1.4808078125809487,,,,,,,,1504
+234359,1.4527982624819074,,,,,,,,1505
+346908,1.450391008226334,,,,,,,,1506
+20403,1.441105152548804,,,,,,,,1507
+21872,1.4397645819108869,,,,,,,,1508
+174,1.4387889301817738,,,,,,,,1509
+343925,1.4208315626745953,,,,,,,,1510
+21148,1.3935042504229758,,,,,,,,1511
+403449,1.3917421183674303,,,,,,,,1512
+3736,1.3715175299071525,,,,,,,,1513
+22864,1.3667800169146815,,,,,,,,1514
+410031,1.3620902001467847,,,,,,,,1515
+70965,1.2994419671587003,,,,,,,,1516
+7858,1.2987150245568977,,,,,,,,1517
+21578,1.2920495529641507,,,,,,,,1518
+45579,1.288874618528547,,,,,,,,1519
+20517,1.269237504356273,,,,,,,,1520
+21004,1.2596522119983378,,,,,,,,1521
+246061,1.2069058808109636,,,,,,,,1522
+20626,1.180490253209917,,,,,,,,1523
+20812,1.171309819419802,,,,,,,,1524
+20949,1.1682400651905578,,,,,,,,1525
+25849,1.1642239846412588,,,,,,,,1526
+20470,1.1459505137871795,,,,,,,,1527
+20575,1.0673566698568764,,,,,,,,1528
+255670,1.066725095964528,,,,,,,,1529
+21861,1.0516669065800255,,,,,,,,1530
+137048,1.0506979883335985,,,,,,,,1531
+21173,1.011025179335619,,,,,,,,1532
+21006,1.0108424095907533,,,,,,,,1533
+21119,1.0036843874412333,,,,,,,,1534
+20526,0.9991405373559122,,,,,,,,1535
+334817,0.9981903533088439,,,,,,,,1536
+221047,0.978860345117976,,,,,,,,1537
+20875,0.972261732564679,,,,,,,,1538
+116170,0.9720687510669922,,,,,,,,1539
+23149,0.9635376902135386,,,,,,,,1540
+269188,0.9472835075843117,,,,,,,,1541
+14904,0.940579159116045,,,,,,,,1542
+20446,0.9397472200296962,,,,,,,,1543
+298212,0.9251666333314029,,,,,,,,1544
+263591,0.9118210772309155,,,,,,,,1545
+300373,0.8783052558346672,,,,,,,,1546
+218971,0.8774819461219101,,,,,,,,1547
+116225,0.8772930984759083,,,,,,,,1548
+145787,0.8706944389078133,,,,,,,,1549
+70974,0.8658244858199522,,,,,,,,1550
+101635,0.8505230702141415,,,,,,,,1551
+267185,0.8319224047798502,,,,,,,,1552
+347593,0.823822907786609,,,,,,,,1553
+92900,0.8208449431438625,,,,,,,,1554
+523089,0.8009167647560373,,,,,,,,1555
+22614,0.7897156957858891,,,,,,,,1556
+20523,0.7860808658183822,,,,,,,,1557
+26518,0.7818108879937151,,,,,,,,1558
+354552,0.7799422573118079,,,,,,,,1559
+302798,0.7748574290313649,,,,,,,,1560
+350569,0.7604589535172044,,,,,,,,1561
+337225,0.7519631018123347,,,,,,,,1562
+20637,0.7428087174834466,,,,,,,,1563
+92908,0.7347486861818152,,,,,,,,1564
+388398,0.7193056617038109,,,,,,,,1565
+289827,0.6985060051877606,,,,,,,,1566
+292991,0.6973934497579142,,,,,,,,1567
+4792,0.677964065407398,,,,,,,,1568
+21306,0.6744975724080078,,,,,,,,1569
+134484,0.6719602257618004,,,,,,,,1570
+170738,0.6676573080262646,,,,,,,,1571
+299557,0.6659786846676654,,,,,,,,1572
+21725,0.6246053015808365,,,,,,,,1573
+20536,0.6217683609317953,,,,,,,,1574
+20478,0.614886201308706,,,,,,,,1575
+137161,0.6079021008443442,,,,,,,,1576
+385655,0.5999015312873215,,,,,,,,1577
+25601,0.5835525159474118,,,,,,,,1578
+3885,0.5813485662455729,,,,,,,,1579
+24024,0.5809399172710756,,,,,,,,1580
+352993,0.5757009012839317,,,,,,,,1581
+99511,0.5748481923153692,,,,,,,,1582
+134419,0.5628476031126156,,,,,,,,1583
+22559,0.5620004802623768,,,,,,,,1584
+49979,0.557695928341268,,,,,,,,1585
+20874,0.5426168496913905,,,,,,,,1586
+413041,0.5423628550489199,,,,,,,,1587
+45,0.5413121634124922,,,,,,,,1588
+377757,0.5388820239671228,,,,,,,,1589
+134429,0.5388032002602889,,,,,,,,1590
+403546,0.5226034470030981,,,,,,,,1591
+402898,0.5223146187913125,,,,,,,,1592
+22152,0.5153288246397368,,,,,,,,1593
+69658,0.48323176468825424,,,,,,,,1594
+149848,0.4797975741170919,,,,,,,,1595
+14855,0.46524300194228396,,,,,,,,1596
+21415,0.45185161063441504,,,,,,,,1597
+99452,0.43347982392530304,,,,,,,,1598
+293198,0.430842613450428,,,,,,,,1599
+149846,0.4218605290565121,,,,,,,,1600
+22135,0.4188701919280736,,,,,,,,1601
+347026,0.40974548665345795,,,,,,,,1602
+21517,0.4086873307458226,,,,,,,,1603
+345740,0.40187670271227544,,,,,,,,1604
+361779,0.39031795192583424,,,,,,,,1605
+405597,0.37096813856522926,,,,,,,,1606
+402017,0.36858073537104685,,,,,,,,1607
+21272,0.364941293572301,,,,,,,,1608
+335634,0.36005649759989466,,,,,,,,1609
+368642,0.3565593039329853,,,,,,,,1610
+3795,0.3521801049184521,,,,,,,,1611
+23386,0.3335972069457015,,,,,,,,1612
+20690,0.32995260568427065,,,,,,,,1613
+26336,0.3260347864848632,,,,,,,,1614
+7849,0.32278211629743175,,,,,,,,1615
+350992,0.3210371690958506,,,,,,,,1616
+658,0.31845515219317627,,,,,,,,1617
+127524,0.31077088425261074,,,,,,,,1618
+16922,0.3096556147970379,,,,,,,,1619
+20476,0.3001967789004421,,,,,,,,1620
+69610,0.29746709765342916,,,,,,,,1621
+373768,0.2922284379308221,,,,,,,,1622
+3548,0.28750746615146155,,,,,,,,1623
+239298,0.2858810806711951,,,,,,,,1624
+286225,0.2848676092224085,,,,,,,,1625
+99423,0.28281050213079384,,,,,,,,1626
+252473,0.2555257088355708,,,,,,,,1627
+388099,0.24835108914285606,,,,,,,,1628
+21282,0.24321443480164506,,,,,,,,1629
+7926,0.23581901361536722,,,,,,,,1630
+20662,0.23420039580356827,,,,,,,,1631
+449978,0.23212198583899596,,,,,,,,1632
+238832,0.21570402867596813,,,,,,,,1633
+262384,0.20575322181218292,,,,,,,,1634
+403272,0.20499292916836354,,,,,,,,1635
+286215,0.20369640251904686,,,,,,,,1636
+213387,0.19884943490264834,,,,,,,,1637
+364640,0.19359993653249913,,,,,,,,1638
+404209,0.1902539622490084,,,,,,,,1639
+246633,0.19017063741227633,,,,,,,,1640
+137143,0.18317925848388644,,,,,,,,1641
+402014,0.18121185306882726,,,,,,,,1642
+21299,0.16792688815905327,,,,,,,,1643
+86785,0.159695655764412,,,,,,,,1644
+481329,0.1566662562390912,,,,,,,,1645
+491409,0.15315782656395335,,,,,,,,1646
+20455,0.1524152951871117,,,,,,,,1647
+93341,0.14979202085575738,,,,,,,,1648
+342075,0.1447085582369756,,,,,,,,1649
+415348,0.14000785618781253,,,,,,,,1650
+300830,0.13833161094200433,,,,,,,,1651
+352722,0.13761099178497982,,,,,,,,1652
+21078,0.1353328437120231,,,,,,,,1653
+412914,0.12835974520563334,,,,,,,,1654
+239290,0.1264904886699318,,,,,,,,1655
+22552,0.12315908147950612,,,,,,,,1656
+20512,0.1196486894964702,,,,,,,,1657
+20639,0.11390437229364066,,,,,,,,1658
+239288,0.09223523231334735,,,,,,,,1659
+289122,0.08982532648302936,,,,,,,,1660
+20506,0.08900086359718573,,,,,,,,1661
+25885,0.07967926558379232,,,,,,,,1662
+339192,0.05704872207902377,,,,,,,,1663
+272280,0.05658108652361,,,,,,,,1664
+283062,0.05562346650388703,,,,,,,,1665
+20604,0.05301284422115993,,,,,,,,1666
+20771,0.052784170248503494,,,,,,,,1667
+264084,0.05147915706802854,,,,,,,,1668
+419204,0.04737833064788556,,,,,,,,1669
+472938,0.04499009043241922,,,,,,,,1670
+137298,0.04168365896949512,,,,,,,,1671
+22817,0.04129001918708501,,,,,,,,1672
+21573,0.03739025086183981,,,,,,,,1673
+434142,0.03610163060707786,,,,,,,,1674
+21128,0.031794542594334355,,,,,,,,1675
+37959,0.031693283930861224,,,,,,,,1676
+265431,0.030080071411059377,,,,,,,,1677
+485464,0.02730134077035617,,,,,,,,1678
+82266,0.023892980495491274,,,,,,,,1679
+190168,0.020543198789393795,,,,,,,,1680
+23124,0.020348001623836483,,,,,,,,1681
+21636,0.019726708805747863,,,,,,,,1682
+21959,0.018718804363532626,,,,,,,,1683
+22889,0.016351681060796156,,,,,,,,1684
+289711,7.845663455743246,,,,,,,,1685
+14692,6.825312435402076,,,,,,,,1686
+135561,6.402111987032973,,,,,,,,1687
+15188,5.125140484701096,,,,,,,,1688
+224677,4.908959211799723,,,,,,,,1689
+3345,4.85649681424902,,,,,,,,1690
+14806,4.590033768743595,,,,,,,,1691
+263614,4.422523096603374,,,,,,,,1692
+327009,4.330767897925129,,,,,,,,1693
+20475,4.311150641431702,,,,,,,,1694
+15811,4.308559295483161,,,,,,,,1695
+3416,4.287120686719888,,,,,,,,1696
+14863,4.208217115249429,,,,,,,,1697
+302600,4.204199990132282,,,,,,,,1698
+136011,4.084375888233974,,,,,,,,1699
+221172,4.014138769692952,,,,,,,,1700
+15103,4.011512164768672,,,,,,,,1701
+14716,4.0025386121769175,,,,,,,,1702
+134392,3.9633119397187744,,,,,,,,1703
+336829,3.952083671678693,,,,,,,,1704
+296341,3.8403335439488973,,,,,,,,1705
+367621,3.64864614018575,,,,,,,,1706
+65027,3.6440510684033205,,,,,,,,1707
+356903,3.641136152544599,,,,,,,,1708
+70975,3.6371082938313375,,,,,,,,1709
+208652,3.606577077859185,,,,,,,,1710
+56274,3.5884851991125397,,,,,,,,1711
+15449,3.5712386483029666,,,,,,,,1712
+3320,3.5414028543162397,,,,,,,,1713
+14732,3.52205258926245,,,,,,,,1714
+3566,3.5069407580153684,,,,,,,,1715
+20876,3.5034361048540443,,,,,,,,1716
+208089,3.4991512914555236,,,,,,,,1717
+127685,3.484175268066301,,,,,,,,1718
+18669,3.470471095764715,,,,,,,,1719
+134383,3.427102931108301,,,,,,,,1720
+221333,3.312387513613837,,,,,,,,1721
+344178,3.304216494730986,,,,,,,,1722
+471348,3.2776032319102857,,,,,,,,1723
+20591,3.2673045233890683,,,,,,,,1724
+255387,3.2443156684440635,,,,,,,,1725
+282804,3.206770872919781,,,,,,,,1726
+15317,3.1542905689388627,,,,,,,,1727
+343685,3.1416250801279637,,,,,,,,1728
+275384,3.1221125754297643,,,,,,,,1729
+209091,3.1205597035433077,,,,,,,,1730
+144766,3.1079706823522946,,,,,,,,1731
+165425,3.1077993375323847,,,,,,,,1732
+69616,3.083897322698776,,,,,,,,1733
+14781,3.072698724859662,,,,,,,,1734
+14762,3.0595645437766605,,,,,,,,1735
+223560,3.0470553243727627,,,,,,,,1736
+393247,3.0182129929754447,,,,,,,,1737
+14923,3.015749715047135,,,,,,,,1738
+65596,3.000127205274124,,,,,,,,1739
+134369,2.971505523825315,,,,,,,,1740
+105378,2.9691330074932605,,,,,,,,1741
+15131,2.9668139908305453,,,,,,,,1742
+14988,2.9553640221829744,,,,,,,,1743
+15020,2.95455411384399,,,,,,,,1744
+15771,2.9399395565217405,,,,,,,,1745
+70096,2.923721083183905,,,,,,,,1746
+228639,2.893355691563649,,,,,,,,1747
+51013,2.8922389893712364,,,,,,,,1748
+404219,2.854184030558426,,,,,,,,1749
+134397,2.8247195298047267,,,,,,,,1750
+15456,2.8232903254387036,,,,,,,,1751
+110,2.8206273251479845,,,,,,,,1752
+15085,2.7756475455038596,,,,,,,,1753
+284469,2.7478654460460836,,,,,,,,1754
+16443,2.6796705021994995,,,,,,,,1755
+337682,2.6597978868437946,,,,,,,,1756
+14786,2.646902851355884,,,,,,,,1757
+4509,2.6325524340786837,,,,,,,,1758
+425926,2.626573020524481,,,,,,,,1759
+14718,2.602541486110588,,,,,,,,1760
+272363,2.5966536374755775,,,,,,,,1761
+15798,2.5606981219138127,,,,,,,,1762
+37948,2.5556598575367873,,,,,,,,1763
+14845,2.549327275231284,,,,,,,,1764
+15782,2.542860063944322,,,,,,,,1765
+272378,2.541188793744419,,,,,,,,1766
+18982,2.5320181413103984,,,,,,,,1767
+366217,2.5244731691384383,,,,,,,,1768
+18579,2.5217296699594374,,,,,,,,1769
+82518,2.5013310207754595,,,,,,,,1770
+345707,2.492185106745453,,,,,,,,1771
+14770,2.4715074948856564,,,,,,,,1772
+14864,2.468988832597058,,,,,,,,1773
+228765,2.467345928793217,,,,,,,,1774
+94764,2.4669594010615166,,,,,,,,1775
+15942,2.4349705877191505,,,,,,,,1776
+14800,2.42467208637926,,,,,,,,1777
+218896,2.4241020418499084,,,,,,,,1778
+14789,2.424077803980069,,,,,,,,1779
+365441,2.3990620291832725,,,,,,,,1780
+51132,2.354858500032901,,,,,,,,1781
+49982,2.351857206114388,,,,,,,,1782
+14760,2.341889461764052,,,,,,,,1783
+15533,2.3292487700107474,,,,,,,,1784
+15253,2.309252277370184,,,,,,,,1785
+279734,2.3012324231378543,,,,,,,,1786
+258253,2.299597460274112,,,,,,,,1787
+14724,2.2882425049460786,,,,,,,,1788
+8628,2.2643016933748332,,,,,,,,1789
+15122,2.2354654679726433,,,,,,,,1790
+65055,2.194363785756263,,,,,,,,1791
+19720,2.112362073578463,,,,,,,,1792
+14885,2.110655144411449,,,,,,,,1793
+15695,2.108754493935643,,,,,,,,1794
+279780,2.0936644527355295,,,,,,,,1795
+14696,2.0893585564325554,,,,,,,,1796
+208716,2.085417003766264,,,,,,,,1797
+86517,2.0345870632628977,,,,,,,,1798
+99410,2.0300599510640893,,,,,,,,1799
+149389,2.025277155698953,,,,,,,,1800
+328131,1.9996678679025452,,,,,,,,1801
+17136,1.994758295140169,,,,,,,,1802
+221376,1.9727820377652074,,,,,,,,1803
+337960,1.9691015585058833,,,,,,,,1804
+224971,1.9646015864789232,,,,,,,,1805
+231139,1.9642779947068902,,,,,,,,1806
+15232,1.9583418001171065,,,,,,,,1807
+14887,1.9345639502977072,,,,,,,,1808
+134399,1.9114393928335975,,,,,,,,1809
+15139,1.888101444078899,,,,,,,,1810
+94831,1.8771852512887646,,,,,,,,1811
+14816,1.8738451084351428,,,,,,,,1812
+25589,1.8606568562154249,,,,,,,,1813
+19392,1.8510194569630476,,,,,,,,1814
+105619,1.7998739195681832,,,,,,,,1815
+3535,1.797418663088735,,,,,,,,1816
+14998,1.7871125533829775,,,,,,,,1817
+491365,1.778365726943327,,,,,,,,1818
+14888,1.7772505930044928,,,,,,,,1819
+20692,1.774999849573209,,,,,,,,1820
+14727,1.7706342413988012,,,,,,,,1821
+391606,1.7324252878859137,,,,,,,,1822
+91519,1.7119215452507552,,,,,,,,1823
+15024,1.6982521825495076,,,,,,,,1824
+15877,1.69655408244766,,,,,,,,1825
+271990,1.674933935579357,,,,,,,,1826
+282799,1.6619814766383088,,,,,,,,1827
+14997,1.6588644614962016,,,,,,,,1828
+272338,1.6544016011174685,,,,,,,,1829
+83836,1.6382870270370153,,,,,,,,1830
+221452,1.6007238430492077,,,,,,,,1831
+275121,1.5884068439961747,,,,,,,,1832
+38079,1.5880894154610201,,,,,,,,1833
+212604,1.5876965539770602,,,,,,,,1834
+135788,1.5697496569679437,,,,,,,,1835
+223516,1.5623780082585583,,,,,,,,1836
+14772,1.5567709903277371,,,,,,,,1837
+146569,1.5507584910176706,,,,,,,,1838
+447223,1.5306759763280477,,,,,,,,1839
+233910,1.5306086732312592,,,,,,,,1840
+86489,1.5269333230981463,,,,,,,,1841
+15018,1.5201671905057157,,,,,,,,1842
+8315,1.5163845445581412,,,,,,,,1843
+349099,1.511418879653511,,,,,,,,1844
+14726,1.4779107700231147,,,,,,,,1845
+272435,1.4741045748077233,,,,,,,,1846
+297957,1.4619300973512401,,,,,,,,1847
+282772,1.4572618895201008,,,,,,,,1848
+285727,1.4256534951237894,,,,,,,,1849
+258254,1.3881382959388848,,,,,,,,1850
+149091,1.3829614431668478,,,,,,,,1851
+15812,1.367902313391696,,,,,,,,1852
+32959,1.3671683058764736,,,,,,,,1853
+105622,1.3589504008263633,,,,,,,,1854
+49997,1.3277101808216412,,,,,,,,1855
+397028,1.318876311881303,,,,,,,,1856
+173213,1.3101374722402415,,,,,,,,1857
+15543,1.2906597096673877,,,,,,,,1858
+15012,1.271434815163869,,,,,,,,1859
+15278,1.270401585168038,,,,,,,,1860
+49869,1.2630394774666192,,,,,,,,1861
+354997,1.2232705769587837,,,,,,,,1862
+224965,1.2092528646412353,,,,,,,,1863
+18591,1.149194540879771,,,,,,,,1864
+15039,1.1295768040798613,,,,,,,,1865
+18974,1.1154320919162628,,,,,,,,1866
+269490,1.0991332466676298,,,,,,,,1867
+3281,1.0826732189849706,,,,,,,,1868
+49907,1.0790109611631642,,,,,,,,1869
+224896,1.0777077802765527,,,,,,,,1870
+18670,1.0774198612001584,,,,,,,,1871
+15194,1.0749844816224987,,,,,,,,1872
+15952,1.0348204286409994,,,,,,,,1873
+15019,1.0288587631627253,,,,,,,,1874
+165431,1.022476493753706,,,,,,,,1875
+15200,0.9984420396251605,,,,,,,,1876
+14707,0.9963789778603297,,,,,,,,1877
+38082,0.9178886980250915,,,,,,,,1878
+1729,0.9097094351597907,,,,,,,,1879
+391441,0.9000960643455829,,,,,,,,1880
+255732,0.8993064579118095,,,,,,,,1881
+16027,0.8982280366881609,,,,,,,,1882
+230687,0.8883349951854365,,,,,,,,1883
+14801,0.882937113040139,,,,,,,,1884
+38093,0.8807716229586026,,,,,,,,1885
+50800,0.8520448774140654,,,,,,,,1886
+112253,0.8405366274358813,,,,,,,,1887
+340476,0.8350173511693287,,,,,,,,1888
+15503,0.7835978318685044,,,,,,,,1889
+56424,0.7824247827331138,,,,,,,,1890
+406682,0.7637352514403293,,,,,,,,1891
+263490,0.7598188691214837,,,,,,,,1892
+99437,0.7579446142341065,,,,,,,,1893
+254649,0.7513945676674627,,,,,,,,1894
+337890,0.7504704633639481,,,,,,,,1895
+15141,0.7091913600062524,,,,,,,,1896
+15813,0.6999908862231421,,,,,,,,1897
+65207,0.6979138504490185,,,,,,,,1898
+18581,0.6849735020315068,,,,,,,,1899
+1722,0.6711153338344701,,,,,,,,1900
+284524,0.6701154055765179,,,,,,,,1901
+14804,0.664664780763533,,,,,,,,1902
+258264,0.6522596248480667,,,,,,,,1903
+28907,0.6455535636530313,,,,,,,,1904
+391387,0.5875189489427537,,,,,,,,1905
+15225,0.574827085673875,,,,,,,,1906
+97555,0.5699924845740462,,,,,,,,1907
+444439,0.565780685889943,,,,,,,,1908
+145030,0.5581151640301315,,,,,,,,1909
+66654,0.5572196579859878,,,,,,,,1910
+15193,0.5561301979121201,,,,,,,,1911
+91,0.5312040124652826,,,,,,,,1912
+15821,0.509779392608462,,,,,,,,1913
+239191,0.5033787606712992,,,,,,,,1914
+25871,0.5017142182522909,,,,,,,,1915
+221443,0.4737267461045961,,,,,,,,1916
+356928,0.4634570304560523,,,,,,,,1917
+14900,0.4600129980702373,,,,,,,,1918
+449921,0.4579480309864834,,,,,,,,1919
+135810,0.44891312441314496,,,,,,,,1920
+15050,0.44292544831588404,,,,,,,,1921
+217052,0.4363419248894489,,,,,,,,1922
+391643,0.4318608137325819,,,,,,,,1923
+433100,0.4286463757842722,,,,,,,,1924
+391425,0.42452972797452687,,,,,,,,1925
+222798,0.415928111601223,,,,,,,,1926
+356906,0.3829106883311728,,,,,,,,1927
+94650,0.37523483735621194,,,,,,,,1928
+356908,0.37041390532629176,,,,,,,,1929
+425923,0.3698601234596088,,,,,,,,1930
+15810,0.35035852074861185,,,,,,,,1931
+15201,0.3442781678229036,,,,,,,,1932
+20704,0.33203195243338046,,,,,,,,1933
+337656,0.3298920838658072,,,,,,,,1934
+297701,0.3178718567198776,,,,,,,,1935
+256776,0.3086708086352508,,,,,,,,1936
+269189,0.30624598669912595,,,,,,,,1937
+373350,0.30334868452113284,,,,,,,,1938
+373636,0.27324050400831507,,,,,,,,1939
+15804,0.26802809770176517,,,,,,,,1940
+20728,0.26562428403541977,,,,,,,,1941
+343729,0.2654824931515149,,,,,,,,1942
+448127,0.25604201267752424,,,,,,,,1943
+14766,0.21240725103036134,,,,,,,,1944
+25514,0.20789672604437123,,,,,,,,1945
+49992,0.20510209843468244,,,,,,,,1946
+403273,0.19988758565154183,,,,,,,,1947
+15800,0.19620731651906534,,,,,,,,1948
+15015,0.19126719325406996,,,,,,,,1949
+241957,0.18666929834587062,,,,,,,,1950
+223546,0.18589814960147455,,,,,,,,1951
+448215,0.1790170403848711,,,,,,,,1952
+49873,0.17515683178060554,,,,,,,,1953
+51689,0.17472333410075336,,,,,,,,1954
+366203,0.17108130248436115,,,,,,,,1955
+476054,0.1678204417357635,,,,,,,,1956
+347366,0.16275811557689687,,,,,,,,1957
+366193,0.1461701660532332,,,,,,,,1958
+272436,0.13743788868443,,,,,,,,1959
+337775,0.13562052427884186,,,,,,,,1960
+391439,0.13414975854516092,,,,,,,,1961
+329202,0.13132262917614534,,,,,,,,1962
+284580,0.12447165663040256,,,,,,,,1963
+337647,0.12083820375976168,,,,,,,,1964
+520617,0.12077225773917628,,,,,,,,1965
+272234,0.10758688183947016,,,,,,,,1966
+15095,0.10653009165768589,,,,,,,,1967
+15090,0.1033797252972069,,,,,,,,1968
+471947,0.10205639616517731,,,,,,,,1969
+493725,0.0972854828657696,,,,,,,,1970
+14822,0.09613128284373285,,,,,,,,1971
+367620,0.09399240446663956,,,,,,,,1972
+286404,0.08667091396339693,,,,,,,,1973
+216077,0.07543250643150719,,,,,,,,1974
+8537,0.0746838954917752,,,,,,,,1975
+16609,0.07225427849508727,,,,,,,,1976
+337903,0.07171560869797466,,,,,,,,1977
+391603,0.06582963551593683,,,,,,,,1978
+18544,0.06456490553775515,,,,,,,,1979
+14992,0.061860670528198894,,,,,,,,1980
+337732,0.06083515826125099,,,,,,,,1981
+15244,0.059780426667063576,,,,,,,,1982
+50023,0.059748569127528295,,,,,,,,1983
+14758,0.05593441390651785,,,,,,,,1984
+65880,0.054825685846039834,,,,,,,,1985
+382289,0.05282324477947657,,,,,,,,1986
+14821,0.04695433608869386,,,,,,,,1987
+35477,0.04540592606409337,,,,,,,,1988
+6292,0.04344774833510027,,,,,,,,1989
+279721,0.03838319460324828,,,,,,,,1990
+337799,0.03806546958782244,,,,,,,,1991
+333477,0.037051724218102974,,,,,,,,1992
+14794,0.027196030202100773,,,,,,,,1993
+286823,0.0258055894782671,,,,,,,,1994
+282194,0.022885153116505675,,,,,,,,1995
+99749,0.02263538348973011,,,,,,,,1996
+15797,0.017926179301861953,,,,,,,,1997
+391449,0.017444092612761974,,,,,,,,1998
+15061,0.01658785987328325,,,,,,,,1999
+49883,0.016305564885055187,,,,,,,,2000
+15192,0.015205810716383624,,,,,,,,2001
+14712,0.015199453284457588,,,,,,,,2002
+448246,0.013097922005843017,,,,,,,,2003
+391551,0.01166907048569095,,,,,,,,2004
